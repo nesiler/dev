@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UHH6thPXR6YqIDQzlUzvPVX8c4pbDVJ1grYCYg5AIpjP0PKiopK0nzmrfxRDwG1j1IkV0x6Ipz/q+CaQYDCEwA==",
+  "success": true,
+  "projectFilePath": "/Users/enesdiler/c#_projects/FirstOne/FirstOne/FirstOne.csproj",
+  "expectedPackageFiles": [
+    "/Users/enesdiler/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/enesdiler/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}

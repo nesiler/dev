@@ -1,0 +1,101 @@
+EMU8086 GENERATED LISTING. MACHINE CODE <- SOURCE.
+ 
+noname.exe_ -- emu8086 assembler version: 4.08  
+ 
+[ 4.07.2022  --  11:35:07 ] 
+ 
+===================================================================================================
+[LINE]     LOC: MACHINE CODE                          SOURCE
+===================================================================================================
+ 
+[   1]        :                                       include 'emu8086.inc'
+[   2]        :                                       .MODEL SMALL
+[   3]        :                                       .DATA
+[   4]        :                                       
+[   5]    0000: 0A 0D 53 65 6D 62 6F 6C 20 67 69 72   msg db 0AH , 0DH , "Sembol gir: $"
+                3A 20 24                            
+[   6]        :                                       
+[   7]        :                                       .code
+[   8]        :                                       
+[   9]    0010:                                       main proc far
+[  10]        :                                       
+[  11]    0010: B8 00 00                              mov ax , @data
+[  12]    0013: 8E D8                                 mov ds , ax
+[  13]        :                                       
+[  14]        :                                       ;lea dx , msg
+[  15]        :                                       ;mov ah , 09H
+[  16]        :                                       ;int 21h
+[  17]        :                                       ;
+[  18]        :                                       ;mov ah , 01H
+[  19]        :                                       ;int 21h
+[  20]        :                                       
+[  21]    0015: B3 0A                                 mov bl , 10
+[  22]    0017: B1 00                                 mov cl , 0
+[  23]    0019: B5 00                                 mov ch , 0
+[  24]        :                                       
+[  25]        :                                       
+[  26]    001B:                                       L:
+[  27]    001B: B5 00                                 mov ch , 0
+[  28]    001D:                                       L1:
+[  29]    001D: 50 53 52 B4 02 8A F1 8A D5 B7 00 CD   gotoxy ch , cl
+                10 5A 5B 58                         
+[  30]    002D: 50 B0 2A B4 0E CD 10 58               putc '*'
+[  31]        :                                       
+[  32]    0035: FE C5                                 inc ch
+[  33]    0037: 3A E9                                 cmp ch , cl
+[  34]    0039: 7E E2                                 jle L1
+[  35]        :                                       
+[  36]    003B: FE C1                                 inc cl
+[  37]    003D: 3A CB                                 cmp cl , bl
+[  38]    003F: 75 DA                                 jne L
+[  39]        :                                       
+[  40]        :                                       
+[  41]    0041: F4                                    hlt
+[  42]        :                                       
+[  43]        :                                       main endp
+[  44]        :                                       
+ 
+===================================================================================================
+ 
+EXE HEADER - bytes from 0000 to 01FF inclusive.
+
+0000: 4D      -   exe signature (M)
+0001: 5A      -   exe signature (Z)
+0002: 42      -   bytes on last page (l.byte)
+0003: 00      -   bytes on last page (h.byte)
+0004: 02      -   512 byte pages in file (l.byte)
+0005: 00      -   512 byte pages in file (h.byte)
+0006: 01      -   relocations (l.byte)
+0007: 00      -   relocations (h.byte)
+0008: 20      -   paragraphs in header (l.byte)
+0009: 00      -   paragraphs in header (h.byte)
+000A: 00      -   minimum memory (l.byte)
+000B: 00      -   minimum memory (h.byte)
+000C: FF      -   maximum memory (l.byte)
+000D: FF      -   maximum memory (h.byte)
+000E: 00      -   SS - stack segment (l.byte)
+000F: 00      -   SS - stack segment (h.byte)
+0010: 00      -   SP - stack pointer (l.byte)
+0011: 00      -   SP - stack pointer (h.byte)
+0012: A2      -   check sum (l.byte)
+0013: 3C      -   check sum (h.byte)
+0014: 00      -   IP - instruction pointer (l.byte)
+0015: 00      -   IP - instruction pointer (h.byte)
+0016: 01      -   CS - code segment (l.byte)
+0017: 00      -   CS - code segment (h.byte)
+0018: 1E      -   relocation table adress (l.byte)
+0019: 00      -   relocation table adress (h.byte)
+001A: 00      -   overlay number (l.byte)
+001B: 00      -   overlay number (h.byte)
+001C: 01      -   signature (l.byte)
+001D: 00      -   signature (h.byte)
+001E: 01      -   relocation table - offset inside segment (l.byte)
+001F: 00      -   relocation table - offset inside segment (h.byte)
+0020: 01      -   relocation table - segment anchor (l.byte)
+0021: 00      -   relocation table - segment anchor (h.byte)
+0022 to 01FF  -   reserved relocation area  (00) 
+
+
+
+
+===================================================================================================

@@ -1,0 +1,126 @@
+import java.util.Arrays;
+import java.util.Random;
+
+
+public class Minesweeper {
+
+    boolean[][] mineField; // board with mines marked as true
+    int rows; // number of rows of the board
+    int cols; // number of columns of the board
+    int numMines;
+    public int counter = 0;
+
+    /*
+     * Class Constructor
+     *
+     * @param int rows Number of rows of the board
+     *
+     * @param int cols Number of columns of the board
+     *
+     * @param int numMines Number of mines to be placed on the board
+     *
+     */
+    public Minesweeper(int rows, int cols, int numMines) {
+
+        this.rows = rows;
+        this.cols = cols;
+        this.numMines = numMines;
+        mineField = new boolean[rows][cols];
+        generateBoard();
+
+    }
+
+
+    /*
+     * Generates the mineField
+     *
+     * @param int numMines Number of mines to be placed on the mineField
+     *
+     * @return boolean[][] Game board with mines placed at random position
+     */
+    public void generateBoard() {
+
+        Random rand = new Random();
+
+        int rowIndex = 0;
+        int colIndex = 0;
+
+
+        for (int i = 1; i <= numMines; i++) {
+            rowIndex = rand.nextInt(rows);
+            colIndex = rand.nextInt(cols);
+
+            if (mineField[rowIndex][colIndex] != true)
+                mineField[rowIndex][colIndex] = true;
+
+            else
+            i--;
+
+        }
+
+    }
+
+    /*
+     * Creates the game
+     *
+     * @return int[][] The board with cell values computed
+     */
+    public int[][] generateClues() {
+
+        int[][] clues = new int[rows][cols];
+
+        for (int i = 0; i < rows; i++)
+            for (int j = 0; j < cols; j++)
+                clues[i][j] = countMines(i, j);
+
+        return clues;
+    }
+
+    /*
+     * counts the number of adjacent mines to a given cell position
+     *
+     * @param int r row position
+     *
+     * @param int c column position
+     *
+     * @return int number of mines in the surrounding cells
+     */
+    public int countMines(int row, int col) {
+
+        int count = 0;
+
+        if (mineField[row][col])
+            return -1;
+
+        else
+            for (int i = 0; i < rows; i++)
+                for (int j = 0; j < cols; j++)
+                    if ((i == row + 1 || i == row - 1 || i == row) && (j == col + 1 || j == col - 1 || j == col))
+                        if (mineField[i][j])
+                            count++;
+
+
+        return count;
+    }
+
+    /*if ((i == row + 1 || i == row - 1 || i == row) && (j == col + 1 || j == col - 1 || j == col))*/
+
+    /*
+     * prints the game mine is represented by *
+     *
+     * @param int[][] game The game board
+     */
+    public void printClues(int[][] clues) {
+
+        for (int i = 0; i < rows; i++) {
+            for (int j = 0; j < cols; j++) {
+                System.out.print(clues[i][j] + "  ");
+            }
+        }
+    }
+
+
+    public static void main(String[] args) {
+
+    }
+}

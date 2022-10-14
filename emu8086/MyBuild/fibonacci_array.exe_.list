@@ -1,0 +1,85 @@
+EMU8086 GENERATED LISTING. MACHINE CODE <- SOURCE.
+ 
+fibonacci_array.exe_ -- emu8086 assembler version: 4.08  
+ 
+[ 3.07.2022  --  00:47:26 ] 
+ 
+===================================================================================================
+[LINE]     LOC: MACHINE CODE                          SOURCE
+===================================================================================================
+ 
+[   1]        :                                       .MODEL SMALL
+[   2]        :                                       
+[   3]        :                                       .DATA
+[   4]        :                                       
+[   5]    0000: 00 00 00 00 00 00 00 00 00 00         dizi db 10 DUP(0H)
+[   6]        :                                       sayi equ 10
+[   7]        :                                       
+[   8]        :                                       .CODE
+[   9]        :                                       
+[  10]    0010: B8 00 00                              mov ax , @Data
+[  11]    0013: 8E D8                                 mov ds , ax
+[  12]        :                                       
+[  13]    0015: B9 0A 00                              mov cx , sayi
+[  14]        :                                       
+[  15]    0018: B0 00                                 mov al , 0
+[  16]    001A: B4 01                                 mov ah , 1
+[  17]    001C: B3 00                                 mov bl , 0
+[  18]    001E: BE 00 00                              mov si , 0
+[  19]        :                                       
+[  20]    0021: 8A DC                                 FIB: mov bl , ah
+[  21]    0023: 02 E0                                 add ah , al
+[  22]    0025: 8A C3                                 mov al , bl
+[  23]        :                                       
+[  24]    0027: 88 24                                 mov dizi[si] , ah
+[  25]    0029: 46                                    inc si
+[  26]    002A: 49                                    dec cx
+[  27]    002B: 75 F4                                 jnz FIB
+[  28]        :                                       
+[  29]    002D: F4                                    hlt
+[  30]        :                                       
+ 
+===================================================================================================
+ 
+EXE HEADER - bytes from 0000 to 01FF inclusive.
+
+0000: 4D      -   exe signature (M)
+0001: 5A      -   exe signature (Z)
+0002: 2E      -   bytes on last page (l.byte)
+0003: 00      -   bytes on last page (h.byte)
+0004: 02      -   512 byte pages in file (l.byte)
+0005: 00      -   512 byte pages in file (h.byte)
+0006: 01      -   relocations (l.byte)
+0007: 00      -   relocations (h.byte)
+0008: 20      -   paragraphs in header (l.byte)
+0009: 00      -   paragraphs in header (h.byte)
+000A: 00      -   minimum memory (l.byte)
+000B: 00      -   minimum memory (h.byte)
+000C: FF      -   maximum memory (l.byte)
+000D: FF      -   maximum memory (h.byte)
+000E: 00      -   SS - stack segment (l.byte)
+000F: 00      -   SS - stack segment (h.byte)
+0010: 00      -   SP - stack pointer (l.byte)
+0011: 00      -   SP - stack pointer (h.byte)
+0012: F1      -   check sum (l.byte)
+0013: 07      -   check sum (h.byte)
+0014: 00      -   IP - instruction pointer (l.byte)
+0015: 00      -   IP - instruction pointer (h.byte)
+0016: 01      -   CS - code segment (l.byte)
+0017: 00      -   CS - code segment (h.byte)
+0018: 1E      -   relocation table adress (l.byte)
+0019: 00      -   relocation table adress (h.byte)
+001A: 00      -   overlay number (l.byte)
+001B: 00      -   overlay number (h.byte)
+001C: 01      -   signature (l.byte)
+001D: 00      -   signature (h.byte)
+001E: 01      -   relocation table - offset inside segment (l.byte)
+001F: 00      -   relocation table - offset inside segment (h.byte)
+0020: 01      -   relocation table - segment anchor (l.byte)
+0021: 00      -   relocation table - segment anchor (h.byte)
+0022 to 01FF  -   reserved relocation area  (00) 
+
+
+
+
+===================================================================================================

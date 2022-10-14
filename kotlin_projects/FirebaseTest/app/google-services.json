@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "77683929740",
+    "project_id": "teddybearkindergarten-1248b",
+    "storage_bucket": "teddybearkindergarten-1248b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77683929740:android:9a70af9338d061102581a9",
+        "android_client_info": {
+          "package_name": "com.codarch.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77683929740-m1ask8oakllsmu7v0a18sqpo0hngt88m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl_oNbpkqMocWSIje8ZLpqaOnnUnIh7hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77683929740-m1ask8oakllsmu7v0a18sqpo0hngt88m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

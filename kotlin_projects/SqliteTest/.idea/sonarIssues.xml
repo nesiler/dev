@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/../flutter_projects/teddy_bear_kindergarten/app/src/main/java/com/codarch/teddybearkindergarten/CheckStudent.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../flutter_projects/teddy_bear_kindergarten/app/src/main/java/com/codarch/teddybearkindergarten/KindergartenControl.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../flutter_projects/teddy_bear_kindergarten/app/src/main/java/com/codarch/teddybearkindergarten/LoginActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../flutter_projects/teddy_bear_kindergarten/app/src/main/java/com/codarch/teddybearkindergarten/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../flutter_projects/teddy_bear_kindergarten/app/src/main/java/com/codarch/teddybearkindergarten/ParentControl.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../flutter_projects/teddy_bear_kindergarten/app/src/main/java/com/codarch/teddybearkindergarten/data/CheckDatabaseHandler.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../flutter_projects/teddy_bear_kindergarten/app/src/main/java/com/codarch/teddybearkindergarten/data/DBHelper.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../flutter_projects/teddy_bear_kindergarten/app/src/main/java/com/codarch/teddybearkindergarten/data/StudentCheckModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../flutter_projects/teddy_bear_kindergarten/app/src/main/java/com/codarch/teddybearkindergarten/data/StudentDatabaseHandler.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../flutter_projects/teddy_bear_kindergarten/app/src/main/java/com/codarch/teddybearkindergarten/data/StudentModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../flutter_projects/teddy_bear_kindergarten/app/src/main/res/layout/activity_check.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../flutter_projects/teddy_bear_kindergarten/app/src/main/res/layout/activity_kindergarten.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../flutter_projects/teddy_bear_kindergarten/app/src/main/res/layout/activity_login.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../flutter_projects/teddy_bear_kindergarten/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../flutter_projects/teddy_bear_kindergarten/app/src/main/res/layout/activity_parent_control.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/codarch/sqlitedemo/DatabaseHandler.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/codarch/sqlitedemo/EmpModelClass.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/codarch/sqlitedemo/ItemAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/codarch/sqlitedemo/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/dialog_update.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/item_row.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/themes.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
