@@ -1,0 +1,14 @@
+/Users/enesdiler/dev/c#_projects/learn/learn/bin/Debug/netcoreapp3.1/learn
+/Users/enesdiler/dev/c#_projects/learn/learn/bin/Debug/netcoreapp3.1/learn.deps.json
+/Users/enesdiler/dev/c#_projects/learn/learn/bin/Debug/netcoreapp3.1/learn.runtimeconfig.json
+/Users/enesdiler/dev/c#_projects/learn/learn/bin/Debug/netcoreapp3.1/learn.runtimeconfig.dev.json
+/Users/enesdiler/dev/c#_projects/learn/learn/bin/Debug/netcoreapp3.1/learn.dll
+/Users/enesdiler/dev/c#_projects/learn/learn/bin/Debug/netcoreapp3.1/learn.pdb
+/Users/enesdiler/dev/c#_projects/learn/learn/obj/Debug/netcoreapp3.1/learn.csproj.AssemblyReference.cache
+/Users/enesdiler/dev/c#_projects/learn/learn/obj/Debug/netcoreapp3.1/learn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enesdiler/dev/c#_projects/learn/learn/obj/Debug/netcoreapp3.1/learn.AssemblyInfoInputs.cache
+/Users/enesdiler/dev/c#_projects/learn/learn/obj/Debug/netcoreapp3.1/learn.AssemblyInfo.cs
+/Users/enesdiler/dev/c#_projects/learn/learn/obj/Debug/netcoreapp3.1/learn.csproj.CoreCompileInputs.cache
+/Users/enesdiler/dev/c#_projects/learn/learn/obj/Debug/netcoreapp3.1/learn.dll
+/Users/enesdiler/dev/c#_projects/learn/learn/obj/Debug/netcoreapp3.1/learn.pdb
+/Users/enesdiler/dev/c#_projects/learn/learn/obj/Debug/netcoreapp3.1/learn.genruntimeconfig.cache
