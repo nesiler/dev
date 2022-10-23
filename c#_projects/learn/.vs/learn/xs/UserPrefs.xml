@@ -1,13 +1,23 @@
 ﻿<Properties StartupConfiguration="{307E27D3-2165-49C3-B8DE-3EE358287910}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="learn/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="learn/scriptcs_bin/Debug/netcoreapp3.1/learn.deps.json">
     <Files>
-      <File FileName="learn/Program.cs" Line="13" Column="2" />
+      <File FileName="learn/Program.cs" Line="65" Column="14" />
+      <File FileName="learn/scriptcs_bin/Debug/netcoreapp3.1/learn.deps.json" Line="16" Column="17" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="learn" expanded="True">
-            <Node name="learn" expanded="True" />
+            <Node name="learn" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="scriptcs_bin" expanded="True">
+                <Node name="Debug" expanded="True">
+                  <Node name="netcoreapp3.1" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -16,11 +26,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.learn PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
