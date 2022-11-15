@@ -1,5 +1,5 @@
 ﻿using System;
-
+using System.Collections.Generic;
 namespace learn
 {
     class Program
@@ -36,6 +36,8 @@ namespace learn
 
             char[] xs = { 'a', 'b', 'c', 'd', 'e', 'f' };
 
+            /////////////////////////////////////////
+
             //params keyword!!!
 
             System.Console.WriteLine(CheckOut(1, 2, 3, 4, 5, 6.0, 7.0, 8.45, 89.123, 0.1234));
@@ -49,6 +51,7 @@ namespace learn
                 }
                 return total;
             }
+            /////////////////////////////////////////
 
 
             try
@@ -69,8 +72,251 @@ namespace learn
             {
                 System.Console.WriteLine("thanks!");
             }
+            /////////////////////////////////////////
+
+            Dog dog = new Dog();
+            Cat cat = new Cat();
+
+            dog.MakeSound();
+            cat.MakeSound();
+
+
+            /////////////////////////////////////////
+
+            Person me = new Person();
+
+            /////////////////////////////////////////
+
+            Car car = new Car();
+            Bicycle bicycle = new Bicycle();
+            Plane plane = new Plane();
+
+            Vehicle[] vehicles = new Vehicle[3];
+            vehicles[0] = car;
+            vehicles[1] = bicycle;
+            vehicles[2] = plane;
+
+            foreach (Vehicle vehicle in vehicles)
+            {
+                vehicle.Go();
+            }
+            /////////////////////////////////////////
+
+            //Inheritance
+            Rabbit rabbit = new Rabbit();
+            Hawk hawk = new Hawk();
+            Fish fish = new Fish();
+
+            rabbit.Flee();
+            hawk.Hunt();
+            fish.Hunt();
+            fish.Flee();
+            /////////////////////////////////////////
+
+            List<String> names = new List<String>();
+            names.Add("John");
+            names.Add("Mary");
+            names.Add("Bob");
+            names.Add("Alice");
+            names.Remove("Bob");
+            names.Insert(0, "Bob");
+
+            System.Console.WriteLine(names[0]);
+            System.Console.WriteLine(names.Count);
+            System.Console.WriteLine(names.IndexOf("Alice"));
+            System.Console.WriteLine(names.Contains("Bob"));
+            names.Sort();
+            foreach (string name in names)
+            {
+                System.Console.WriteLine(name);
+            }
+
+            names.Reverse();
+            System.Console.WriteLine(names.LastIndexOf("Bob"));
+
+            foreach (String name in names)
+            {
+                System.Console.WriteLine(name);
+            }
+
+            String[] nameArray = names.ToArray();
+            names.Clear();
+            /////////////////////////////////////////
+            Runner runner = new Runner(400);
+            runner.Speed = 100;
+
+            runner.Run();
 
             Console.ReadKey();
+        }
+    }
+
+    enum Planets
+    {
+        Mercury,
+        Venus,
+        Earth,
+        Mars,
+        Jupiter,
+        Saturn,
+        Uranus,
+        Neptune
+    }
+    class Runner
+    {
+        private int speed;
+        //quick get set :
+        //pulic int Speed {get; set;}
+        public Runner(int speed)
+        {
+            Speed = speed;
+        }
+        //getter setter
+        public int Speed
+        {
+            get { return speed; }
+            set
+            {
+                if (value >= 500)
+                {
+                    speed = 500;
+                }
+                else if (value <= 0)
+                {
+                    speed = 0;
+                }
+                else { speed = value; }
+            }
+        }
+        public void Run()
+        {
+            System.Console.WriteLine("Running at speed: " + speed);
+        }
+    }
+
+    /////////////////////////////////////////
+    interface IPredator
+    {
+        void Hunt();
+    }
+
+    interface IPrey
+    {
+        void Flee();
+    }
+
+    class Rabbit : IPrey
+    {
+        public void Flee()
+        {
+            System.Console.WriteLine("The rabbit flees");
+        }
+    }
+
+    class Hawk : IPredator
+    {
+        public void Hunt()
+        {
+            System.Console.WriteLine("The hawk hunts");
+        }
+    }
+
+    class Fish : IPrey, IPredator
+    {
+        public void Flee()
+        {
+            System.Console.WriteLine("The fish flees");
+        }
+
+        public void Hunt()
+        {
+            System.Console.WriteLine("The fish hunts");
+        }
+    }
+
+    //abstract class
+    // abstract class Animal
+    // {
+    //     public abstract void MakeSound();
+    // }
+    // class Dog : Animal
+    // {
+    //     public override void MakeSound()
+    //     {
+    //         System.Console.WriteLine("Woof");
+    //     }
+    // }
+
+    /////////////////////////////////////////
+    //polymorphism
+    class Vehicle
+    {
+        public virtual void Go()
+        {
+
+        }
+
+    }
+    class Car : Vehicle
+    {
+        public override void Go()
+        {
+            System.Console.WriteLine("Car is moving forward");
+        }
+
+
+    }
+    class Plane : Vehicle
+    {
+        public override void Go()
+        {
+            System.Console.WriteLine("Plane is moving forward");
+        }
+
+    }
+    class Bicycle : Vehicle
+    {
+        public override void Go()
+        {
+            System.Console.WriteLine("Bicycle is moving forward");
+
+        }
+    }
+    ////////////////////////////////////////       
+    //method overloading
+    class Animal
+    {
+        public virtual void MakeSound()
+        {
+            System.Console.WriteLine("Grrrr");
+        }
+    }
+
+    class Dog : Animal
+    {
+        public override void MakeSound()
+        {
+            System.Console.WriteLine("Woof");
+        }
+    }
+
+    class Cat : Animal
+    {
+        public override void MakeSound()
+        {
+            System.Console.WriteLine("Meow");
+        }
+    }
+    /////////////////////////////////
+    //toString override
+    class Person
+    {
+        public string Name { get; set; }
+        public int Age { get; set; }
+
+        public override string ToString()
+        {
+            return Name + " " + Age;
         }
     }
 }
