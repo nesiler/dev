@@ -1,8 +1,15 @@
 ﻿<Properties StartupConfiguration="{307E27D3-2165-49C3-B8DE-3EE358287910}|Default">
+  <MonoDevelop.Ide.ItemProperties.learn PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.23AB5FEF-303F-4918-B3CD-53FA2181BE97" />
   <MonoDevelop.Ide.Workbench ActiveDocument="learn/scriptcs_bin/Debug/netcoreapp3.1/learn.deps.json">
     <Files>
       <File FileName="learn/Program.cs" Line="65" Column="14" />
-      <File FileName="learn/scriptcs_bin/Debug/netcoreapp3.1/learn.deps.json" Line="16" Column="17" />
+      <File FileName="learn/scriptcs_bin/Debug/netcoreapp3.1/learn.deps.json" Line="6" Column="28" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -26,11 +33,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.learn PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

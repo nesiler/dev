@@ -1,5 +1,5 @@
 import qrcode
 
-img = qrcode.make('Enes Diler')
+img = qrcode.make('cart curt')
 
 img.save('img.jpg')

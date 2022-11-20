@@ -1,0 +1,393 @@
+[Tue Oct 04 14:18:41.262418 2022] [ssl:warn] [pid 3616:tid 312] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 04 14:18:41.356161 2022] [ssl:warn] [pid 3616:tid 312] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 04 14:18:41.699910 2022] [mpm_winnt:notice] [pid 3616:tid 312] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.10 configured -- resuming normal operations
+[Tue Oct 04 14:18:41.699910 2022] [mpm_winnt:notice] [pid 3616:tid 312] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Tue Oct 04 14:18:41.699910 2022] [core:notice] [pid 3616:tid 312] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Oct 04 14:18:41.699910 2022] [mpm_winnt:notice] [pid 3616:tid 312] AH00418: Parent: Created child process 6836
+[Tue Oct 04 14:18:41.934285 2022] [ssl:warn] [pid 6836:tid 428] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 04 14:18:41.965580 2022] [ssl:warn] [pid 6836:tid 428] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 04 14:18:42.028034 2022] [mpm_winnt:notice] [pid 6836:tid 428] AH00354: Child: Starting 150 worker threads.
+[Tue Oct 04 14:26:11.259860 2022] [ssl:warn] [pid 3372:tid 452] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 04 14:26:11.290363 2022] [core:warn] [pid 3372:tid 452] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Oct 04 14:26:11.290363 2022] [ssl:warn] [pid 3372:tid 452] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 04 14:26:11.369502 2022] [mpm_winnt:notice] [pid 3372:tid 452] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.10 configured -- resuming normal operations
+[Tue Oct 04 14:26:11.369502 2022] [mpm_winnt:notice] [pid 3372:tid 452] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Tue Oct 04 14:26:11.369502 2022] [core:notice] [pid 3372:tid 452] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Oct 04 14:26:11.369502 2022] [mpm_winnt:notice] [pid 3372:tid 452] AH00418: Parent: Created child process 5016
+[Tue Oct 04 14:26:11.540341 2022] [ssl:warn] [pid 5016:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 04 14:26:11.571592 2022] [ssl:warn] [pid 5016:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 04 14:26:11.603658 2022] [mpm_winnt:notice] [pid 5016:tid 420] AH00354: Child: Starting 150 worker threads.
+[Sun Oct 30 12:42:05.836380 2022] [ssl:warn] [pid 1928:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 12:42:05.899575 2022] [core:warn] [pid 1928:tid 420] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Oct 30 12:42:05.914436 2022] [ssl:warn] [pid 1928:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 12:42:06.230769 2022] [mpm_winnt:notice] [pid 1928:tid 420] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.10 configured -- resuming normal operations
+[Sun Oct 30 12:42:06.230769 2022] [mpm_winnt:notice] [pid 1928:tid 420] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sun Oct 30 12:42:06.230769 2022] [core:notice] [pid 1928:tid 420] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Oct 30 12:42:06.236170 2022] [mpm_winnt:notice] [pid 1928:tid 420] AH00418: Parent: Created child process 548
+[Sun Oct 30 12:42:06.423689 2022] [ssl:warn] [pid 548:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 12:42:06.470564 2022] [ssl:warn] [pid 548:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 12:42:06.517549 2022] [mpm_winnt:notice] [pid 548:tid 440] AH00354: Child: Starting 150 worker threads.
+[Sun Oct 30 13:37:01.299092 2022] [ssl:warn] [pid 7104:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 13:37:01.404929 2022] [core:warn] [pid 7104:tid 420] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Oct 30 13:37:01.420555 2022] [ssl:warn] [pid 7104:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 13:37:01.509800 2022] [mpm_winnt:notice] [pid 7104:tid 420] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.10 configured -- resuming normal operations
+[Sun Oct 30 13:37:01.509800 2022] [mpm_winnt:notice] [pid 7104:tid 420] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sun Oct 30 13:37:01.509800 2022] [core:notice] [pid 7104:tid 420] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Oct 30 13:37:01.513798 2022] [mpm_winnt:notice] [pid 7104:tid 420] AH00418: Parent: Created child process 4848
+[Sun Oct 30 13:37:01.791816 2022] [ssl:warn] [pid 4848:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 13:37:01.823066 2022] [ssl:warn] [pid 4848:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 13:37:01.869956 2022] [mpm_winnt:notice] [pid 4848:tid 420] AH00354: Child: Starting 150 worker threads.
+[Sun Oct 30 14:11:21.832377 2022] [ssl:warn] [pid 9132:tid 464] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 14:11:21.879775 2022] [core:warn] [pid 9132:tid 464] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Oct 30 14:11:21.879775 2022] [ssl:warn] [pid 9132:tid 464] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 14:11:21.928932 2022] [mpm_winnt:notice] [pid 9132:tid 464] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.10 configured -- resuming normal operations
+[Sun Oct 30 14:11:21.928932 2022] [mpm_winnt:notice] [pid 9132:tid 464] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sun Oct 30 14:11:21.928932 2022] [core:notice] [pid 9132:tid 464] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Oct 30 14:11:21.941752 2022] [mpm_winnt:notice] [pid 9132:tid 464] AH00418: Parent: Created child process 640
+[Sun Oct 30 14:11:22.114660 2022] [ssl:warn] [pid 640:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 14:11:22.144875 2022] [ssl:warn] [pid 640:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 14:11:22.176127 2022] [mpm_winnt:notice] [pid 640:tid 416] AH00354: Child: Starting 150 worker threads.
+[Sun Oct 30 14:12:04.299878 2022] [ssl:warn] [pid 1492:tid 432] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 14:12:04.342781 2022] [core:warn] [pid 1492:tid 432] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Oct 30 14:12:04.342781 2022] [ssl:warn] [pid 1492:tid 432] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 14:12:04.389654 2022] [mpm_winnt:notice] [pid 1492:tid 432] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.10 configured -- resuming normal operations
+[Sun Oct 30 14:12:04.389654 2022] [mpm_winnt:notice] [pid 1492:tid 432] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sun Oct 30 14:12:04.389654 2022] [core:notice] [pid 1492:tid 432] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Oct 30 14:12:04.389654 2022] [mpm_winnt:notice] [pid 1492:tid 432] AH00418: Parent: Created child process 1396
+[Sun Oct 30 14:12:04.565399 2022] [ssl:warn] [pid 1396:tid 432] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 14:12:04.598690 2022] [ssl:warn] [pid 1396:tid 432] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 14:12:04.629946 2022] [mpm_winnt:notice] [pid 1396:tid 432] AH00354: Child: Starting 150 worker threads.
+[Sun Oct 30 14:12:45.745140 2022] [ssl:warn] [pid 2804:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 14:12:45.798149 2022] [core:warn] [pid 2804:tid 420] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Oct 30 14:12:45.798149 2022] [ssl:warn] [pid 2804:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 14:12:45.829575 2022] [mpm_winnt:notice] [pid 2804:tid 420] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.10 configured -- resuming normal operations
+[Sun Oct 30 14:12:45.829575 2022] [mpm_winnt:notice] [pid 2804:tid 420] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sun Oct 30 14:12:45.829575 2022] [core:notice] [pid 2804:tid 420] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Oct 30 14:12:45.848671 2022] [mpm_winnt:notice] [pid 2804:tid 420] AH00418: Parent: Created child process 6640
+[Sun Oct 30 14:12:46.001308 2022] [ssl:warn] [pid 6640:tid 424] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 14:12:46.048169 2022] [ssl:warn] [pid 6640:tid 424] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 14:12:46.080131 2022] [mpm_winnt:notice] [pid 6640:tid 424] AH00354: Child: Starting 150 worker threads.
+[Sun Oct 30 14:16:46.655384 2022] [ssl:warn] [pid 7508:tid 424] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 14:16:46.717945 2022] [core:warn] [pid 7508:tid 424] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Oct 30 14:16:46.733513 2022] [ssl:warn] [pid 7508:tid 424] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 14:16:46.789211 2022] [mpm_winnt:notice] [pid 7508:tid 424] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.10 configured -- resuming normal operations
+[Sun Oct 30 14:16:46.789211 2022] [mpm_winnt:notice] [pid 7508:tid 424] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sun Oct 30 14:16:46.789211 2022] [core:notice] [pid 7508:tid 424] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Oct 30 14:16:46.789211 2022] [mpm_winnt:notice] [pid 7508:tid 424] AH00418: Parent: Created child process 8344
+[Sun Oct 30 14:16:46.961089 2022] [ssl:warn] [pid 8344:tid 464] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 14:16:47.023585 2022] [ssl:warn] [pid 8344:tid 464] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 14:16:47.054838 2022] [mpm_winnt:notice] [pid 8344:tid 464] AH00354: Child: Starting 150 worker threads.
+[Sun Oct 30 14:17:09.623356 2022] [ssl:warn] [pid 7248:tid 484] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 14:17:09.670396 2022] [core:warn] [pid 7248:tid 484] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Oct 30 14:17:09.670396 2022] [ssl:warn] [pid 7248:tid 484] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 14:17:09.729773 2022] [mpm_winnt:notice] [pid 7248:tid 484] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.10 configured -- resuming normal operations
+[Sun Oct 30 14:17:09.729773 2022] [mpm_winnt:notice] [pid 7248:tid 484] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sun Oct 30 14:17:09.729773 2022] [core:notice] [pid 7248:tid 484] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Oct 30 14:17:09.729773 2022] [mpm_winnt:notice] [pid 7248:tid 484] AH00418: Parent: Created child process 8832
+[Sun Oct 30 14:17:09.901852 2022] [ssl:warn] [pid 8832:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 14:17:09.948804 2022] [ssl:warn] [pid 8832:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 14:17:09.981696 2022] [mpm_winnt:notice] [pid 8832:tid 416] AH00354: Child: Starting 150 worker threads.
+[Sun Oct 30 23:11:38.641786 2022] [ssl:warn] [pid 4424:tid 452] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 23:11:38.688662 2022] [core:warn] [pid 4424:tid 452] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Oct 30 23:11:38.688662 2022] [ssl:warn] [pid 4424:tid 452] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 23:11:38.923036 2022] [mpm_winnt:notice] [pid 4424:tid 452] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.10 configured -- resuming normal operations
+[Sun Oct 30 23:11:38.923036 2022] [mpm_winnt:notice] [pid 4424:tid 452] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sun Oct 30 23:11:38.923036 2022] [core:notice] [pid 4424:tid 452] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Oct 30 23:11:38.938689 2022] [mpm_winnt:notice] [pid 4424:tid 452] AH00418: Parent: Created child process 6580
+[Sun Oct 30 23:11:39.157540 2022] [ssl:warn] [pid 6580:tid 448] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 23:11:39.188661 2022] [ssl:warn] [pid 6580:tid 448] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 23:11:39.235536 2022] [mpm_winnt:notice] [pid 6580:tid 448] AH00354: Child: Starting 150 worker threads.
+[Sun Oct 30 23:14:28.674910 2022] [authz_core:error] [pid 6580:tid 3776] [client 10.211.55.2:50500] AH01630: client denied by server configuration: C:/xampp/phpMyAdmin/, referer: http://windowshost/dashboard/
+[Sun Oct 30 23:17:14.168221 2022] [ssl:warn] [pid 6476:tid 436] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 23:17:14.199135 2022] [core:warn] [pid 6476:tid 436] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Oct 30 23:17:14.214737 2022] [ssl:warn] [pid 6476:tid 436] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 23:17:14.246521 2022] [mpm_winnt:notice] [pid 6476:tid 436] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.10 configured -- resuming normal operations
+[Sun Oct 30 23:17:14.246521 2022] [mpm_winnt:notice] [pid 6476:tid 436] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sun Oct 30 23:17:14.246521 2022] [core:notice] [pid 6476:tid 436] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Oct 30 23:17:14.246521 2022] [mpm_winnt:notice] [pid 6476:tid 436] AH00418: Parent: Created child process 6648
+[Sun Oct 30 23:17:14.433487 2022] [ssl:warn] [pid 6648:tid 428] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 23:17:14.464744 2022] [ssl:warn] [pid 6648:tid 428] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 23:17:14.496530 2022] [mpm_winnt:notice] [pid 6648:tid 428] AH00354: Child: Starting 150 worker threads.
+[Sun Oct 30 23:19:11.053630 2022] [authz_core:error] [pid 6648:tid 3836] [client 10.211.55.2:50658] AH01630: client denied by server configuration: C:/xampp/phpMyAdmin/, referer: http://windowshost/dashboard/
+[Sun Oct 30 23:20:53.436421 2022] [ssl:warn] [pid 6348:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 23:20:53.483212 2022] [core:warn] [pid 6348:tid 420] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Oct 30 23:20:53.483212 2022] [ssl:warn] [pid 6348:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 23:20:53.529983 2022] [mpm_winnt:notice] [pid 6348:tid 420] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.10 configured -- resuming normal operations
+[Sun Oct 30 23:20:53.529983 2022] [mpm_winnt:notice] [pid 6348:tid 420] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sun Oct 30 23:20:53.529983 2022] [core:notice] [pid 6348:tid 420] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Oct 30 23:20:53.529983 2022] [mpm_winnt:notice] [pid 6348:tid 420] AH00418: Parent: Created child process 7904
+[Sun Oct 30 23:20:53.702086 2022] [ssl:warn] [pid 7904:tid 224] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 23:20:53.733180 2022] [ssl:warn] [pid 7904:tid 224] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 23:20:53.764358 2022] [mpm_winnt:notice] [pid 7904:tid 224] AH00354: Child: Starting 150 worker threads.
+[Sun Oct 30 23:21:17.854049 2022] [ssl:warn] [pid 2912:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 23:21:17.900518 2022] [core:warn] [pid 2912:tid 420] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Oct 30 23:21:17.916145 2022] [ssl:warn] [pid 2912:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 23:21:17.947993 2022] [mpm_winnt:notice] [pid 2912:tid 420] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.10 configured -- resuming normal operations
+[Sun Oct 30 23:21:17.947993 2022] [mpm_winnt:notice] [pid 2912:tid 420] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sun Oct 30 23:21:17.947993 2022] [core:notice] [pid 2912:tid 420] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Oct 30 23:21:17.947993 2022] [mpm_winnt:notice] [pid 2912:tid 420] AH00418: Parent: Created child process 6164
+[Sun Oct 30 23:21:18.119267 2022] [ssl:warn] [pid 6164:tid 504] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 23:21:18.150561 2022] [ssl:warn] [pid 6164:tid 504] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 23:21:18.182365 2022] [mpm_winnt:notice] [pid 6164:tid 504] AH00354: Child: Starting 150 worker threads.
+[Sun Oct 30 23:30:07.521772 2022] [ssl:warn] [pid 656:tid 424] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 23:30:07.568855 2022] [core:warn] [pid 656:tid 424] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Oct 30 23:30:07.568855 2022] [ssl:warn] [pid 656:tid 424] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 23:30:07.760151 2022] [mpm_winnt:notice] [pid 656:tid 424] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.10 configured -- resuming normal operations
+[Sun Oct 30 23:30:07.760151 2022] [mpm_winnt:notice] [pid 656:tid 424] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sun Oct 30 23:30:07.760151 2022] [core:notice] [pid 656:tid 424] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Oct 30 23:30:07.760151 2022] [mpm_winnt:notice] [pid 656:tid 424] AH00418: Parent: Created child process 3508
+[Sun Oct 30 23:30:07.947652 2022] [ssl:warn] [pid 3508:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 23:30:07.978901 2022] [ssl:warn] [pid 3508:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 30 23:30:08.010252 2022] [mpm_winnt:notice] [pid 3508:tid 416] AH00354: Child: Starting 150 worker threads.
+[Mon Oct 31 07:33:45.551737 2022] [ssl:warn] [pid 3088:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 31 07:33:45.598634 2022] [core:warn] [pid 3088:tid 420] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Oct 31 07:33:45.614237 2022] [ssl:warn] [pid 3088:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 31 07:33:45.911126 2022] [mpm_winnt:notice] [pid 3088:tid 420] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.10 configured -- resuming normal operations
+[Mon Oct 31 07:33:45.911126 2022] [mpm_winnt:notice] [pid 3088:tid 420] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Mon Oct 31 07:33:45.911126 2022] [core:notice] [pid 3088:tid 420] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Oct 31 07:33:45.911126 2022] [mpm_winnt:notice] [pid 3088:tid 420] AH00418: Parent: Created child process 5940
+[Mon Oct 31 07:33:46.177196 2022] [ssl:warn] [pid 5940:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 31 07:33:46.208446 2022] [ssl:warn] [pid 5940:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 31 07:33:46.255391 2022] [mpm_winnt:notice] [pid 5940:tid 420] AH00354: Child: Starting 150 worker threads.
+[Mon Oct 31 07:39:30.192980 2022] [authz_core:error] [pid 5940:tid 3764] [client 192.168.150.155:49739] AH01630: client denied by server configuration: C:/xampp/webalizer/index.php
+[Mon Oct 31 07:39:30.192980 2022] [authz_core:error] [pid 5940:tid 3764] [client 192.168.150.155:49739] AH01630: client denied by server configuration: C:/xampp/webalizer/index.pl
+[Mon Oct 31 07:39:30.192980 2022] [authz_core:error] [pid 5940:tid 3764] [client 192.168.150.155:49739] AH01630: client denied by server configuration: C:/xampp/webalizer/index.cgi
+[Mon Oct 31 07:39:30.192980 2022] [authz_core:error] [pid 5940:tid 3764] [client 192.168.150.155:49739] AH01630: client denied by server configuration: C:/xampp/webalizer/index.asp
+[Mon Oct 31 07:39:30.192980 2022] [authz_core:error] [pid 5940:tid 3764] [client 192.168.150.155:49739] AH01630: client denied by server configuration: C:/xampp/webalizer/index.shtml
+[Mon Oct 31 07:39:30.192980 2022] [authz_core:error] [pid 5940:tid 3764] [client 192.168.150.155:49739] AH01630: client denied by server configuration: C:/xampp/webalizer/index.html
+[Mon Oct 31 07:39:30.192980 2022] [authz_core:error] [pid 5940:tid 3764] [client 192.168.150.155:49739] AH01630: client denied by server configuration: C:/xampp/webalizer/index.htm
+[Mon Oct 31 07:39:30.192980 2022] [authz_core:error] [pid 5940:tid 3764] [client 192.168.150.155:49739] AH01630: client denied by server configuration: C:/xampp/webalizer/default.php
+[Mon Oct 31 07:39:30.192980 2022] [authz_core:error] [pid 5940:tid 3764] [client 192.168.150.155:49739] AH01630: client denied by server configuration: C:/xampp/webalizer/default.pl
+[Mon Oct 31 07:39:30.192980 2022] [authz_core:error] [pid 5940:tid 3764] [client 192.168.150.155:49739] AH01630: client denied by server configuration: C:/xampp/webalizer/default.cgi
+[Mon Oct 31 07:39:30.192980 2022] [authz_core:error] [pid 5940:tid 3764] [client 192.168.150.155:49739] AH01630: client denied by server configuration: C:/xampp/webalizer/default.asp
+[Mon Oct 31 07:39:30.192980 2022] [authz_core:error] [pid 5940:tid 3764] [client 192.168.150.155:49739] AH01630: client denied by server configuration: C:/xampp/webalizer/default.shtml
+[Mon Oct 31 07:39:30.192980 2022] [authz_core:error] [pid 5940:tid 3764] [client 192.168.150.155:49739] AH01630: client denied by server configuration: C:/xampp/webalizer/default.html
+[Mon Oct 31 07:39:30.192980 2022] [authz_core:error] [pid 5940:tid 3764] [client 192.168.150.155:49739] AH01630: client denied by server configuration: C:/xampp/webalizer/default.htm
+[Mon Oct 31 07:39:30.192980 2022] [authz_core:error] [pid 5940:tid 3764] [client 192.168.150.155:49739] AH01630: client denied by server configuration: C:/xampp/webalizer/home.php
+[Mon Oct 31 07:39:30.192980 2022] [authz_core:error] [pid 5940:tid 3764] [client 192.168.150.155:49739] AH01630: client denied by server configuration: C:/xampp/webalizer/home.pl
+[Mon Oct 31 07:39:30.192980 2022] [authz_core:error] [pid 5940:tid 3764] [client 192.168.150.155:49739] AH01630: client denied by server configuration: C:/xampp/webalizer/home.cgi
+[Mon Oct 31 07:39:30.192980 2022] [authz_core:error] [pid 5940:tid 3764] [client 192.168.150.155:49739] AH01630: client denied by server configuration: C:/xampp/webalizer/home.asp
+[Mon Oct 31 07:39:30.192980 2022] [authz_core:error] [pid 5940:tid 3764] [client 192.168.150.155:49739] AH01630: client denied by server configuration: C:/xampp/webalizer/home.shtml
+[Mon Oct 31 07:39:30.192980 2022] [authz_core:error] [pid 5940:tid 3764] [client 192.168.150.155:49739] AH01630: client denied by server configuration: C:/xampp/webalizer/home.html
+[Mon Oct 31 07:39:30.192980 2022] [authz_core:error] [pid 5940:tid 3764] [client 192.168.150.155:49739] AH01630: client denied by server configuration: C:/xampp/webalizer/home.htm
+[Mon Oct 31 07:39:55.215740 2022] [authz_core:error] [pid 5940:tid 3876] [client 192.168.150.155:49946] AH01630: client denied by server configuration: C:/xampp/webalizer/index.php, referer: http://windows/opencart/
+[Mon Oct 31 07:39:55.215740 2022] [authz_core:error] [pid 5940:tid 3876] [client 192.168.150.155:49946] AH01630: client denied by server configuration: C:/xampp/webalizer/index.pl, referer: http://windows/opencart/
+[Mon Oct 31 07:39:55.215740 2022] [authz_core:error] [pid 5940:tid 3876] [client 192.168.150.155:49946] AH01630: client denied by server configuration: C:/xampp/webalizer/index.cgi, referer: http://windows/opencart/
+[Mon Oct 31 07:39:55.215740 2022] [authz_core:error] [pid 5940:tid 3876] [client 192.168.150.155:49946] AH01630: client denied by server configuration: C:/xampp/webalizer/index.asp, referer: http://windows/opencart/
+[Mon Oct 31 07:39:55.215740 2022] [authz_core:error] [pid 5940:tid 3876] [client 192.168.150.155:49946] AH01630: client denied by server configuration: C:/xampp/webalizer/index.shtml, referer: http://windows/opencart/
+[Mon Oct 31 07:39:55.215740 2022] [authz_core:error] [pid 5940:tid 3876] [client 192.168.150.155:49946] AH01630: client denied by server configuration: C:/xampp/webalizer/index.html, referer: http://windows/opencart/
+[Mon Oct 31 07:39:55.215740 2022] [authz_core:error] [pid 5940:tid 3876] [client 192.168.150.155:49946] AH01630: client denied by server configuration: C:/xampp/webalizer/index.htm, referer: http://windows/opencart/
+[Mon Oct 31 07:39:55.215740 2022] [authz_core:error] [pid 5940:tid 3876] [client 192.168.150.155:49946] AH01630: client denied by server configuration: C:/xampp/webalizer/default.php, referer: http://windows/opencart/
+[Mon Oct 31 07:39:55.215740 2022] [authz_core:error] [pid 5940:tid 3876] [client 192.168.150.155:49946] AH01630: client denied by server configuration: C:/xampp/webalizer/default.pl, referer: http://windows/opencart/
+[Mon Oct 31 07:39:55.215740 2022] [authz_core:error] [pid 5940:tid 3876] [client 192.168.150.155:49946] AH01630: client denied by server configuration: C:/xampp/webalizer/default.cgi, referer: http://windows/opencart/
+[Mon Oct 31 07:39:55.215740 2022] [authz_core:error] [pid 5940:tid 3876] [client 192.168.150.155:49946] AH01630: client denied by server configuration: C:/xampp/webalizer/default.asp, referer: http://windows/opencart/
+[Mon Oct 31 07:39:55.215740 2022] [authz_core:error] [pid 5940:tid 3876] [client 192.168.150.155:49946] AH01630: client denied by server configuration: C:/xampp/webalizer/default.shtml, referer: http://windows/opencart/
+[Mon Oct 31 07:39:55.215740 2022] [authz_core:error] [pid 5940:tid 3876] [client 192.168.150.155:49946] AH01630: client denied by server configuration: C:/xampp/webalizer/default.html, referer: http://windows/opencart/
+[Mon Oct 31 07:39:55.215740 2022] [authz_core:error] [pid 5940:tid 3876] [client 192.168.150.155:49946] AH01630: client denied by server configuration: C:/xampp/webalizer/default.htm, referer: http://windows/opencart/
+[Mon Oct 31 07:39:55.215740 2022] [authz_core:error] [pid 5940:tid 3876] [client 192.168.150.155:49946] AH01630: client denied by server configuration: C:/xampp/webalizer/home.php, referer: http://windows/opencart/
+[Mon Oct 31 07:39:55.215740 2022] [authz_core:error] [pid 5940:tid 3876] [client 192.168.150.155:49946] AH01630: client denied by server configuration: C:/xampp/webalizer/home.pl, referer: http://windows/opencart/
+[Mon Oct 31 07:39:55.215740 2022] [authz_core:error] [pid 5940:tid 3876] [client 192.168.150.155:49946] AH01630: client denied by server configuration: C:/xampp/webalizer/home.cgi, referer: http://windows/opencart/
+[Mon Oct 31 07:39:55.215740 2022] [authz_core:error] [pid 5940:tid 3876] [client 192.168.150.155:49946] AH01630: client denied by server configuration: C:/xampp/webalizer/home.asp, referer: http://windows/opencart/
+[Mon Oct 31 07:39:55.215740 2022] [authz_core:error] [pid 5940:tid 3876] [client 192.168.150.155:49946] AH01630: client denied by server configuration: C:/xampp/webalizer/home.shtml, referer: http://windows/opencart/
+[Mon Oct 31 07:39:55.215740 2022] [authz_core:error] [pid 5940:tid 3876] [client 192.168.150.155:49946] AH01630: client denied by server configuration: C:/xampp/webalizer/home.html, referer: http://windows/opencart/
+[Mon Oct 31 07:39:55.215740 2022] [authz_core:error] [pid 5940:tid 3876] [client 192.168.150.155:49946] AH01630: client denied by server configuration: C:/xampp/webalizer/home.htm, referer: http://windows/opencart/
+[Mon Oct 31 07:40:19.260591 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.php, referer: http://windows/opencart/
+[Mon Oct 31 07:40:19.260591 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.pl, referer: http://windows/opencart/
+[Mon Oct 31 07:40:19.260591 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.cgi, referer: http://windows/opencart/
+[Mon Oct 31 07:40:19.260591 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.asp, referer: http://windows/opencart/
+[Mon Oct 31 07:40:19.260591 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.shtml, referer: http://windows/opencart/
+[Mon Oct 31 07:40:19.260591 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.html, referer: http://windows/opencart/
+[Mon Oct 31 07:40:19.260591 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.htm, referer: http://windows/opencart/
+[Mon Oct 31 07:40:19.260591 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.php, referer: http://windows/opencart/
+[Mon Oct 31 07:40:19.260591 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.pl, referer: http://windows/opencart/
+[Mon Oct 31 07:40:19.260591 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.cgi, referer: http://windows/opencart/
+[Mon Oct 31 07:40:19.260591 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.asp, referer: http://windows/opencart/
+[Mon Oct 31 07:40:19.260591 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.shtml, referer: http://windows/opencart/
+[Mon Oct 31 07:40:19.260591 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.html, referer: http://windows/opencart/
+[Mon Oct 31 07:40:19.260591 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.htm, referer: http://windows/opencart/
+[Mon Oct 31 07:40:19.260591 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.php, referer: http://windows/opencart/
+[Mon Oct 31 07:40:19.260591 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.pl, referer: http://windows/opencart/
+[Mon Oct 31 07:40:19.260591 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.cgi, referer: http://windows/opencart/
+[Mon Oct 31 07:40:19.260591 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.asp, referer: http://windows/opencart/
+[Mon Oct 31 07:40:19.260591 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.shtml, referer: http://windows/opencart/
+[Mon Oct 31 07:40:19.260591 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.html, referer: http://windows/opencart/
+[Mon Oct 31 07:40:19.260591 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.htm, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.014575 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.php, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.014575 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.pl, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.014575 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.cgi, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.014575 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.asp, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.014575 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.shtml, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.014575 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.html, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.014575 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.htm, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.014575 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.php, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.014575 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.pl, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.014575 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.cgi, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.014575 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.asp, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.014575 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.shtml, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.014575 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.html, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.014575 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.htm, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.014575 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.php, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.014575 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.pl, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.014575 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.cgi, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.014575 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.asp, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.014575 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.shtml, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.014575 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.html, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.014575 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.htm, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.309507 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.php, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.309507 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.pl, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.309507 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.cgi, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.309507 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.asp, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.309507 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.shtml, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.309507 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.html, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.309507 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.htm, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.309507 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.php, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.309507 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.pl, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.309507 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.cgi, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.309507 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.asp, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.309507 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.shtml, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.309507 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.html, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.309507 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.htm, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.309507 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.php, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.309507 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.pl, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.309507 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.cgi, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.309507 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.asp, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.309507 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.shtml, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.309507 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.html, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.309507 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.htm, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.731067 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.php, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.731067 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.pl, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.731067 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.cgi, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.731067 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.asp, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.731067 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.shtml, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.731067 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.html, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.731067 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.htm, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.731067 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.php, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.731067 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.pl, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.731067 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.cgi, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.731067 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.asp, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.731067 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.shtml, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.731067 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.html, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.731067 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.htm, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.731067 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.php, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.731067 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.pl, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.731067 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.cgi, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.746686 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.asp, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.746686 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.shtml, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.746686 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.html, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.746686 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.htm, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.989249 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.php, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.989249 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.pl, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.989249 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.cgi, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.989249 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.asp, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.989249 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.shtml, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.989249 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.html, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.989249 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.htm, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.989249 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.php, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.989249 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.pl, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.989249 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.cgi, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.989249 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.asp, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.989249 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.shtml, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.989249 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.html, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.989249 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.htm, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.989249 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.php, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.989249 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.pl, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.989249 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.cgi, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.989249 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.asp, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.989249 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.shtml, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.989249 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.html, referer: http://windows/opencart/
+[Mon Oct 31 07:40:20.989249 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.htm, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.161120 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.php, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.161120 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.pl, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.161120 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.cgi, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.161120 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.asp, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.161120 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.shtml, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.161120 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.html, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.161120 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.htm, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.161120 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.php, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.161120 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.pl, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.161120 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.cgi, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.161120 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.asp, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.161120 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.shtml, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.161120 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.html, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.161120 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.htm, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.161120 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.php, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.161120 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.pl, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.161120 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.cgi, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.161120 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.asp, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.161120 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.shtml, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.161120 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.html, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.161120 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.htm, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.348589 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.php, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.348589 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.pl, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.348589 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.cgi, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.348589 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.asp, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.348589 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.shtml, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.348589 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.html, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.348589 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/index.htm, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.348589 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.php, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.348589 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.pl, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.348589 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.cgi, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.348589 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.asp, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.348589 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.shtml, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.364194 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.html, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.364194 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/default.htm, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.364194 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.php, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.364194 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.pl, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.364194 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.cgi, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.364194 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.asp, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.364194 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.shtml, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.364194 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.html, referer: http://windows/opencart/
+[Mon Oct 31 07:40:21.364194 2022] [authz_core:error] [pid 5940:tid 3732] [client 192.168.150.155:49949] AH01630: client denied by server configuration: C:/xampp/webalizer/home.htm, referer: http://windows/opencart/
+[Mon Oct 31 07:40:27.021253 2022] [authz_core:error] [pid 5940:tid 3764] [client 192.168.150.155:49970] AH01630: client denied by server configuration: C:/xampp/phpMyAdmin/, referer: http://windows/dashboard/
+[Mon Oct 31 08:37:01.668947 2022] [ssl:warn] [pid 7804:tid 456] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 31 08:37:01.700568 2022] [core:warn] [pid 7804:tid 456] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Oct 31 08:37:01.715828 2022] [ssl:warn] [pid 7804:tid 456] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 31 08:37:01.971860 2022] [mpm_winnt:notice] [pid 7804:tid 456] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.10 configured -- resuming normal operations
+[Mon Oct 31 08:37:01.971860 2022] [mpm_winnt:notice] [pid 7804:tid 456] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Mon Oct 31 08:37:01.971860 2022] [core:notice] [pid 7804:tid 456] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Oct 31 08:37:01.971860 2022] [mpm_winnt:notice] [pid 7804:tid 456] AH00418: Parent: Created child process 7980
+[Mon Oct 31 08:37:02.190568 2022] [ssl:warn] [pid 7980:tid 432] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 31 08:37:02.237442 2022] [ssl:warn] [pid 7980:tid 432] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 31 08:37:02.284324 2022] [mpm_winnt:notice] [pid 7980:tid 432] AH00354: Child: Starting 150 worker threads.
+[Mon Oct 31 08:37:16.214874 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:52518] AH01630: client denied by server configuration: C:/xampp/webalizer/index.php
+[Mon Oct 31 08:37:16.214874 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:52518] AH01630: client denied by server configuration: C:/xampp/webalizer/index.pl
+[Mon Oct 31 08:37:16.214874 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:52518] AH01630: client denied by server configuration: C:/xampp/webalizer/index.cgi
+[Mon Oct 31 08:37:16.214874 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:52518] AH01630: client denied by server configuration: C:/xampp/webalizer/index.asp
+[Mon Oct 31 08:37:16.214874 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:52518] AH01630: client denied by server configuration: C:/xampp/webalizer/index.shtml
+[Mon Oct 31 08:37:16.214874 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:52518] AH01630: client denied by server configuration: C:/xampp/webalizer/index.html
+[Mon Oct 31 08:37:16.214874 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:52518] AH01630: client denied by server configuration: C:/xampp/webalizer/index.htm
+[Mon Oct 31 08:37:16.214874 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:52518] AH01630: client denied by server configuration: C:/xampp/webalizer/default.php
+[Mon Oct 31 08:37:16.214874 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:52518] AH01630: client denied by server configuration: C:/xampp/webalizer/default.pl
+[Mon Oct 31 08:37:16.214874 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:52518] AH01630: client denied by server configuration: C:/xampp/webalizer/default.cgi
+[Mon Oct 31 08:37:16.214874 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:52518] AH01630: client denied by server configuration: C:/xampp/webalizer/default.asp
+[Mon Oct 31 08:37:16.214874 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:52518] AH01630: client denied by server configuration: C:/xampp/webalizer/default.shtml
+[Mon Oct 31 08:37:16.214874 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:52518] AH01630: client denied by server configuration: C:/xampp/webalizer/default.html
+[Mon Oct 31 08:37:16.214874 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:52518] AH01630: client denied by server configuration: C:/xampp/webalizer/default.htm
+[Mon Oct 31 08:37:16.214874 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:52518] AH01630: client denied by server configuration: C:/xampp/webalizer/home.php
+[Mon Oct 31 08:37:16.214874 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:52518] AH01630: client denied by server configuration: C:/xampp/webalizer/home.pl
+[Mon Oct 31 08:37:16.214874 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:52518] AH01630: client denied by server configuration: C:/xampp/webalizer/home.cgi
+[Mon Oct 31 08:37:16.214874 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:52518] AH01630: client denied by server configuration: C:/xampp/webalizer/home.asp
+[Mon Oct 31 08:37:16.214874 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:52518] AH01630: client denied by server configuration: C:/xampp/webalizer/home.shtml
+[Mon Oct 31 08:37:16.214874 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:52518] AH01630: client denied by server configuration: C:/xampp/webalizer/home.html
+[Mon Oct 31 08:37:16.214874 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:52518] AH01630: client denied by server configuration: C:/xampp/webalizer/home.htm
+[Mon Oct 31 09:34:04.899666 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:54806] AH01630: client denied by server configuration: C:/xampp/webalizer/index.php
+[Mon Oct 31 09:34:04.899666 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:54806] AH01630: client denied by server configuration: C:/xampp/webalizer/index.pl
+[Mon Oct 31 09:34:04.899666 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:54806] AH01630: client denied by server configuration: C:/xampp/webalizer/index.cgi
+[Mon Oct 31 09:34:04.899666 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:54806] AH01630: client denied by server configuration: C:/xampp/webalizer/index.asp
+[Mon Oct 31 09:34:04.899666 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:54806] AH01630: client denied by server configuration: C:/xampp/webalizer/index.shtml
+[Mon Oct 31 09:34:04.899666 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:54806] AH01630: client denied by server configuration: C:/xampp/webalizer/index.html
+[Mon Oct 31 09:34:04.899666 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:54806] AH01630: client denied by server configuration: C:/xampp/webalizer/index.htm
+[Mon Oct 31 09:34:04.899666 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:54806] AH01630: client denied by server configuration: C:/xampp/webalizer/default.php
+[Mon Oct 31 09:34:04.899666 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:54806] AH01630: client denied by server configuration: C:/xampp/webalizer/default.pl
+[Mon Oct 31 09:34:04.899666 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:54806] AH01630: client denied by server configuration: C:/xampp/webalizer/default.cgi
+[Mon Oct 31 09:34:04.899666 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:54806] AH01630: client denied by server configuration: C:/xampp/webalizer/default.asp
+[Mon Oct 31 09:34:04.899666 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:54806] AH01630: client denied by server configuration: C:/xampp/webalizer/default.shtml
+[Mon Oct 31 09:34:04.899666 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:54806] AH01630: client denied by server configuration: C:/xampp/webalizer/default.html
+[Mon Oct 31 09:34:04.899666 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:54806] AH01630: client denied by server configuration: C:/xampp/webalizer/default.htm
+[Mon Oct 31 09:34:04.899666 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:54806] AH01630: client denied by server configuration: C:/xampp/webalizer/home.php
+[Mon Oct 31 09:34:04.899666 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:54806] AH01630: client denied by server configuration: C:/xampp/webalizer/home.pl
+[Mon Oct 31 09:34:04.899666 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:54806] AH01630: client denied by server configuration: C:/xampp/webalizer/home.cgi
+[Mon Oct 31 09:34:04.899666 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:54806] AH01630: client denied by server configuration: C:/xampp/webalizer/home.asp
+[Mon Oct 31 09:34:04.899666 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:54806] AH01630: client denied by server configuration: C:/xampp/webalizer/home.shtml
+[Mon Oct 31 09:34:04.899666 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:54806] AH01630: client denied by server configuration: C:/xampp/webalizer/home.html
+[Mon Oct 31 09:34:04.899666 2022] [authz_core:error] [pid 7980:tid 3852] [client 192.168.150.155:54806] AH01630: client denied by server configuration: C:/xampp/webalizer/home.htm

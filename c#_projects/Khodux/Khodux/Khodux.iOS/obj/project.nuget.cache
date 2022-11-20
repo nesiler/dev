@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rc1GZYjd0mvlKG+JushDeAdBcY3kVt266G3du0OYsdb/KP5Cyrt73nI3h++tLzRA7p+NNe2Am/uBH1cHjBosUA==",
+  "success": true,
+  "projectFilePath": "/Users/enesdiler/dev/c#_projects/Khodux/Khodux/Khodux.iOS/Khodux.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/enesdiler/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/enesdiler/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/enesdiler/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

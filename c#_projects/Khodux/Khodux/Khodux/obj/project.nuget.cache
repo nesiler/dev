@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uqy1E75G67ScNfVD2FIHAMhx3n74vKJ8dLTyuy4zrikD0TfFd/Bcopo+K06MMuCpaVhxCvOWFPMorh2sIqDx/w==",
+  "success": true,
+  "projectFilePath": "/Users/enesdiler/dev/c#_projects/Khodux/Khodux/Khodux/Khodux.csproj",
+  "expectedPackageFiles": [
+    "/Users/enesdiler/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/enesdiler/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/enesdiler/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/enesdiler/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/enesdiler/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

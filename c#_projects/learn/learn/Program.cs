@@ -1,6 +1,8 @@
 ﻿using System;
+using System.Threading;
 using System.Collections.Generic;
 namespace learn
+
 {
     class Program
     {
@@ -147,21 +149,61 @@ namespace learn
 
             runner.Run();
 
+            System.Console.WriteLine(Planets.Mercury + " " + (int)Planets.Mercury);
+
+            //generics
+            int[] nums = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+            String[] numbers = { "1", "2", "3", "4", "5", "6", "7", "8", "9" };
+
+            Thread mainThread = Thread.CurrentThread;
+            mainThread.Name = "Main Thread";
+
+            CountDown("Main 1");
+            CountUp("Main 2");
+
+            Thread thread1 = new Thread(() => CountDown("Timer 1"));
+            Thread thread2 = new Thread(() => CountUp("Timer 2"));
+            thread1.Start();
+            thread2.Start();
+
             Console.ReadKey();
+        }
+        
+        public static void CountDown(String threadName){
+                for(int i = 10; i > 0; i--){
+                    System.Console.WriteLine(threadName + " " + i);
+                    Thread.Sleep(100);
+                }
+            }
+
+        public static void CountUp(String threadName){
+            for(int i = 0; i < 10; i++){
+                System.Console.WriteLine(threadName + " " + i);
+                Thread.Sleep(100);
+                }
+            }
+
+        public static void PrintArray<T>(T[] array)
+        {
+            foreach (T element in array)
+            {                    
+                System.Console.WriteLine(element);
+            }
         }
     }
 
     enum Planets
     {
-        Mercury,
-        Venus,
-        Earth,
-        Mars,
-        Jupiter,
-        Saturn,
-        Uranus,
-        Neptune
-    }
+        Mercury = 1,
+        Venus = 2,
+        Earth = 3,
+        Mars = 4,
+        Jupiter = 5,
+        Saturn = 6,
+        Uranus = 7,
+        Neptune = 8
+        }
+
     class Runner
     {
         private int speed;
