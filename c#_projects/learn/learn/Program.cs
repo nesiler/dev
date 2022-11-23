@@ -1,5 +1,4 @@
-﻿using System.Xml.Xsl.Runtime;
-using System;
+﻿using System;
 using System.Threading;
 using System.Collections.Generic;
 namespace learn
@@ -20,6 +19,16 @@ namespace learn
             // string y = Console.ReadLine();
             // System.Console.WriteLine(x);
             // System.Console.WriteLine(y);
+
+            float fuloot = 3.14F; //obdalikli sayilarin sonunda turu belirtilmeli.
+            decimal desimal = 3.14M;
+            double duble = 3.14; //defaultta double olarak tanimlanir.
+
+            (int age, string name, bool isSomething) someone = (25, "John Doe", true);
+
+            int tireliSayi = 1_000_000; //1000000 same 
+
+
 
             /*
             Math:
