@@ -1,4 +1,5 @@
-﻿using System;
+﻿using System.Xml.Xsl.Runtime;
+using System;
 using System.Threading;
 using System.Collections.Generic;
 namespace learn
@@ -8,8 +9,12 @@ namespace learn
     {
         static void Main(string[] args)
         {
-            string nasd = "asd";
-            Console.WriteLine(nasd);
+            // string nasd = "asd";
+            // Console.WriteLine(nasd);
+
+            double result = 14;
+            var isConvert = double.TryParse("45.123", out result);
+            System.Console.WriteLine($"Convert result : {isConvert}");
 
             // int x = Convert.ToInt32(Console.ReadLine());
             // string y = Console.ReadLine();
@@ -213,6 +218,7 @@ namespace learn
         {
             Speed = speed;
         }
+        
         //getter setter
         public int Speed
         {

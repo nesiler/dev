@@ -1,21 +1,38 @@
 ﻿<Properties StartupConfiguration="{C1F060CA-5F0F-49E7-9C7A-7EF15ED35E5C}|Default">
-  <MultiItemStartupConfigurations />
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.23AB5FEF-303F-4918-B3CD-53FA2181BE97" />
-  <MonoDevelop.Ide.ItemProperties.Khodux FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Khodux.Android FirstBuild="True" PreferredExecutionTarget="Android.SelectDevice" />
-  <MonoDevelop.Ide.ItemProperties.Khodux.iOS FirstBuild="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.23AB5FEF-303F-4918-B3CD-53FA2181BE97" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Khodux/Khodux/Views/AboutPage.xaml">
+    <Files>
+      <File FileName="../../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/iOS/Xamarin.Shared.targets" />
+      <File FileName="Khodux/Khodux/ViewModels/AboutViewModel.cs" />
+      <File FileName="Khodux/Khodux/ViewModels/BaseViewModel.cs" />
+      <File FileName="Khodux/Khodux/ViewModels/ItemDetailViewModel.cs" />
+      <File FileName="Khodux/Khodux/ViewModels/ItemsViewModel.cs" />
+      <File FileName="Khodux/Khodux/ViewModels/LoginViewModel.cs" />
+      <File FileName="Khodux/Khodux/ViewModels/NewItemViewModel.cs" />
+      <File FileName="Khodux/Khodux/Services/IDataStore.cs" />
+      <File FileName="Khodux/Khodux/Services/MockDataStore.cs" />
+      <File FileName="Khodux/Khodux/Views/AboutPage.xaml" Line="20" Column="44" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Khodux" expanded="True" />
+          <Node name="Khodux" expanded="True">
+            <Node name="Khodux" expanded="True">
+              <Node name="Services" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.23AB5FEF-303F-4918-B3CD-53FA2181BE97" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Khodux.Android FirstBuild="True" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.ItemProperties.Khodux.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget." />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
 </Properties>
