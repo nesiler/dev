@@ -26,7 +26,11 @@ namespace learn
 
             (int age, string name, bool isSomething) someone = (25, "John Doe", true);
 
-            int tireliSayi = 1_000_000; //1000000 same 
+            int tireliSayi = 1_000_000; //1000000 same
+
+            string difoult = default(string);
+
+            int difsayi = default(int);
 
 
 

@@ -48,7 +48,7 @@ def create_folders(names):
         folder = str(name.strip('\n'))
         folders.append(folder)
 
-        if(not(os.path.exists(folder))):
+        if (not (os.path.exists(folder))):
             os.mkdir(folder)
             print(("Directory created: " + name + " ").center(40, '+'))
 
@@ -70,7 +70,7 @@ def get_number(number):
 def remember(folder):
 
     list_of_files = glob.glob(folder + '/*.jpg')
-    if(len(list_of_files) == 0):
+    if (len(list_of_files) == 0):
         return int(1)
     else:
         latest_file = max(list_of_files, key=os.path.getctime)
@@ -97,21 +97,21 @@ def nsd(num):
 
     while True:
 
-        if(validate_address(address)):
+        if (validate_address(address)):
             print(address)
             download(address, folders[num], str(file))
             err = 0
             file = file + 1
 
-            if((file % 1000) == 0):
+            if ((file % 1000) == 0):
                 number = get_number(file)
 
             address = current_base + str(number) + '/' + str(file) + end
 
-        elif(err < 50):
+        elif (err < 50):
             file = file + 1
 
-            if((file % 1000) == 0):
+            if ((file % 1000) == 0):
                 number = get_number(file)
             print("Error : " + address)
             address = current_base + str(number) + '/' + str(file) + end
