@@ -13,3 +13,5 @@
 /Users/enesdiler/dev/c#_projects/dot6/dot6/obj/Debug/net6.0/dot6.pdb
 /Users/enesdiler/dev/c#_projects/dot6/dot6/obj/Debug/net6.0/dot6.genruntimeconfig.cache
 /Users/enesdiler/dev/c#_projects/dot6/dot6/obj/Debug/net6.0/ref/dot6.dll
+/Users/enesdiler/dev/c#_projects/dot6/dot6/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/enesdiler/dev/c#_projects/dot6/dot6/obj/Debug/net6.0/dot6.csproj.CopyComplete

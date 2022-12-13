@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "/uJVmgbc2SPmplamk4RWM3q0XigzKxFAvxqQ5mMFct+e44Vbh/ZekKfBInn3Seri1/wULBaUoAP3X2tsFZR5Ug==",
+  "dgSpecHash": "I9uGE0c3VtvHJ3HcDOXJpq3h3tGptYmg2my6M0wElYpGUD6PFO8fwd4p39qb0/i3OCjVaVNcqbR36L6owI+oyg==",
   "success": true,
   "projectFilePath": "/Users/enesdiler/dev/c#_projects/dot6/dot6/dot6.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/enesdiler/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/Users/enesdiler/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

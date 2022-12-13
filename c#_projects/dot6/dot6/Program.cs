@@ -1,9 +1,15 @@
-﻿using System;
+﻿using System.Text.RegularExpressions;
+using System.Diagnostics;
+using System;
+using System.Collections.Generic;
+using Microsoft.Extensions.Primitives;
 
 internal class Program
 {
     private static void Main(string[] args)
     {
+        //repeat " / " 40 times
+        Console.WriteLine(new String('\n', 20));
         int a = 123;
         Console.WriteLine($"damn {a}");
         //deep copy
@@ -185,24 +191,144 @@ internal class Program
         string numres = number switch
         {
             < 4000 => "Buyukkk",
-            > 4000 => "Kucukkk",
+            > 5000 => "Kucukkk",
+            4536 => "Esitt",
             _ => "nothing yani"
-            4536 => "Esitt"
         };
 
+        //array sinifi
+        Array arr = new int[3];
+        //metotlar
+        //clear(deafult degerler) - copy - indexOf(deger yoksa -1 doner) - Reverse - Sort
+        //Array.Copy();
+        //Array.Reverse();
+        //Array.IndexOf();
 
+        //ozellikler
+        //Length - Rank(derece - 2 boyutlu vs) - LongLength - isReadOnly - IsFixedSize
+        arr.SetValue(123, 0);
+        System.Console.WriteLine(arr.GetValue(0));
 
+        //System.Index = index basina " ^ " isareti getirilerek sondan indexleme saglanir ve birden baslar 0 dan degil
+        //index 3 = 0, 1, 2, -3- iken : index ^3 = sondan 4, -3-, 2, 1
+        Index index = 5;
+        Index indexx = ^4;
+        //System.Range " .. " opeartoru ile range belirleme - onemli kisim! (index no .. sira no) seklinde olmasidir
+        //yani .. nin solunda index (0,1,2,3), saginda ise sira no(1,2,3,4) vardir
+        //belirtilen numaranin bir solunu aliyor gibi dusunulebilir
+        Range range = 3..7;
+        //sag kisimda ^ kullanilirsa sagdan -2-,1 elemani degil bir solu kullanilir yani -3-, 2, 1
+        Range rangee = 5..^2;
 
+        //create a 10 size number array and fill it with random number without loop
+        int[] numbers = { 1, 5, 56, 1234, 653, 456768, 234, 51234, 3, 53425, 1657, 342, 65, 42, 8, 4567 };
+        Range rangeee = 3..^7;
+        int[] numberss = numbers[rangeee];
+        System.Console.WriteLine(new string('>', 30));
+        foreach (var item in numberss)
+        {
+            Console.WriteLine(item);
+        }
+        System.Console.WriteLine(new string('<', 30));
 
+        //2 dimension integer array and fill
+        int[,] arr2 = new int[3, 3];
+        arr2[0, 0] = 1;
+        //3 dimension integer array and fill
+        int[,,] arr3 = new int[3, 3, 3];
+        arr3[0, 0, 0] = 1;
 
+        //jagged array
+        int[][] jagged = new int[3][];
+        jagged[0] = new int[3];
+        jagged[1] = new int[2];
+        jagged[2] = new int[4];
 
+        //null string tanimlama 
+        String strr = string.Empty;
+        if (string.IsNullOrEmpty(strr))
+        {
+            if (strr is null)
+                Console.WriteLine("null");
+            else if (strr == string.Empty)
+                Console.WriteLine("empty");
+
+            if (string.IsNullOrWhiteSpace(strr))
+                Console.WriteLine("whitespace");
+        }
+
+        string formatted = string.Format("Merhaba benim adim {0}, soyadim {1}, yasim {2}", ogrenci.Name, ogrenci.Soyadi, ogrenci.Yasi);
+        System.Console.WriteLine(formatted);
+
+        //string all escape character is \ backslash - o,a,b,t,r,n,v,fddd
+
+        //verbatim basina koyulan @ isareti, alt satira gecmesine ragmen + isareti cikmiyor, ayrica " isaretleri kendil kendini yiyor
+        string verbatim = @"alsdkfjalskdjf
+        laskjdflaksjdf
+        laskdjflaksjdlfj
+        laksdjflaksjdlfkj";
+
+        string meine = "asdifkashd kasdjhflkasdjhf kjhasdfkljahsd kjhasdlkfhasd";
+
+        //bastan 4. index sondan 5. harf
+        string aralik = meine[4..^5];
+        System.Console.WriteLine(aralik[0]);
+        System.Console.WriteLine(aralik[1]);
+        System.Console.WriteLine(aralik[aralik.Length - 1]);
+        System.Console.WriteLine(aralik);
+
+        //ArraySegment define
+        //array i referans olarak tutar ve bellektne kazandirir
+        //asagidaki ornekte 2.indexten 4.siraya kadar yani 2,3 indexleri
+        ArraySegment<int> segment = new ArraySegment<int>(numbers, 2, 4);
+        //segment slice - 1.index ve 3.sira arasi referans alindi
+        ArraySegment<int> segment2 = segment.Slice(1, 3);
+
+        //string segment 
+        //need to install ExtensionPrimitives
+        string strSegment = "Hello World";
+        //ArraySegment<char> segment3 = strSegment.AsSpan(6, 5);
+        StringSegment stringSegment = new StringSegment(strSegment);
+
+        //string builder
+        StringBuilder sb = new StringBuilder();
+        sb.Append("Hello");
+        sb.Append(" ");
+        sb.Append("World");
+        sb.Append(" ");
+        sb.Append("!");
+
+        //span defining
+        //span is a reference type
+        Span<int> span = new Span<int>(numbers);
+        Span<int> span2 = numbers;
+        Span<int> span3 = new Span<int>(numbers, 1, 3);
+        //asSpan define
+        Span<int> span4 = numbers.AsSpan(1, 3);
+
+        //eger string de asSpan kullanilirsa ReadOnlySpan lazim
+        ReadOnlySpan<char> span5 = meine.AsSpan(6, 5);
+
+        string regSample = "eneslaskjd0q3u9efijowc";
+        Regex regex = new Regex("^enes");
+        Match match = regex.Match(regSample);
+        System.Console.WriteLine(match.Success);
+
+        //alloc with span
+        Span<int> span6 = stackalloc int[3];
+
+        //Collections -> ArrayList vs.
+        //ArrayList
+        ArrayList arrayList = new ArrayList();
+
+        
 
 
 
 
 
         Console.WriteLine("=======Finish=======");
-        Console.ReadKey();
+        // Console.ReadKey();
     }
 }
 
@@ -211,6 +337,7 @@ class Ogrenci
     public string? Name;
     public string? Soyadi;
     public string? Meslek;
+    public int Yasi;
 }
 
 class Other
