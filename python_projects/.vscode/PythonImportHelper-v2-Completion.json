@@ -1,0 +1,1064 @@
+[
+    {
+        "label": "multiprocessing",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "multiprocessing",
+        "description": "multiprocessing",
+        "detail": "multiprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "Process",
+        "importPath": "multiprocessing",
+        "description": "multiprocessing",
+        "isExtraImport": true,
+        "detail": "multiprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "queue",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "queue",
+        "description": "queue",
+        "detail": "queue",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "remove",
+        "importPath": "os",
+        "description": "os",
+        "isExtraImport": true,
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "glob",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "glob",
+        "description": "glob",
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "add",
+        "importPath": "audioop",
+        "description": "audioop",
+        "isExtraImport": true,
+        "detail": "audioop",
+        "documentation": {}
+    },
+    {
+        "label": "add",
+        "importPath": "audioop",
+        "description": "audioop",
+        "isExtraImport": true,
+        "detail": "audioop",
+        "documentation": {}
+    },
+    {
+        "label": "add",
+        "importPath": "audioop",
+        "description": "audioop",
+        "isExtraImport": true,
+        "detail": "audioop",
+        "documentation": {}
+    },
+    {
+        "label": "add",
+        "importPath": "audioop",
+        "description": "audioop",
+        "isExtraImport": true,
+        "detail": "audioop",
+        "documentation": {}
+    },
+    {
+        "label": "thread",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "thread",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "filename",
+        "importPath": "fileinput",
+        "description": "fileinput",
+        "isExtraImport": true,
+        "detail": "fileinput",
+        "documentation": {}
+    },
+    {
+        "label": "filename",
+        "importPath": "fileinput",
+        "description": "fileinput",
+        "isExtraImport": true,
+        "detail": "fileinput",
+        "documentation": {}
+    },
+    {
+        "label": "join",
+        "importPath": "ntpath",
+        "description": "ntpath",
+        "isExtraImport": true,
+        "detail": "ntpath",
+        "documentation": {}
+    },
+    {
+        "label": "join",
+        "importPath": "ntpath",
+        "description": "ntpath",
+        "isExtraImport": true,
+        "detail": "ntpath",
+        "documentation": {}
+    },
+    {
+        "label": "join",
+        "importPath": "ntpath",
+        "description": "ntpath",
+        "isExtraImport": true,
+        "detail": "ntpath",
+        "documentation": {}
+    },
+    {
+        "label": "join",
+        "importPath": "ntpath",
+        "description": "ntpath",
+        "isExtraImport": true,
+        "detail": "ntpath",
+        "documentation": {}
+    },
+    {
+        "label": "split",
+        "importPath": "posixpath",
+        "description": "posixpath",
+        "isExtraImport": true,
+        "detail": "posixpath",
+        "documentation": {}
+    },
+    {
+        "label": "split",
+        "importPath": "posixpath",
+        "description": "posixpath",
+        "isExtraImport": true,
+        "detail": "posixpath",
+        "documentation": {}
+    },
+    {
+        "label": "split",
+        "importPath": "posixpath",
+        "description": "posixpath",
+        "isExtraImport": true,
+        "detail": "posixpath",
+        "documentation": {}
+    },
+    {
+        "label": "split",
+        "importPath": "posixpath",
+        "description": "posixpath",
+        "isExtraImport": true,
+        "detail": "posixpath",
+        "documentation": {}
+    },
+    {
+        "label": "encodestring",
+        "importPath": "quopri",
+        "description": "quopri",
+        "isExtraImport": true,
+        "detail": "quopri",
+        "documentation": {}
+    },
+    {
+        "label": "encodestring",
+        "importPath": "quopri",
+        "description": "quopri",
+        "isExtraImport": true,
+        "detail": "quopri",
+        "documentation": {}
+    },
+    {
+        "label": "encodestring",
+        "importPath": "quopri",
+        "description": "quopri",
+        "isExtraImport": true,
+        "detail": "quopri",
+        "documentation": {}
+    },
+    {
+        "label": "encodestring",
+        "importPath": "quopri",
+        "description": "quopri",
+        "isExtraImport": true,
+        "detail": "quopri",
+        "documentation": {}
+    },
+    {
+        "label": "wget",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "wget",
+        "description": "wget",
+        "detail": "wget",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "append",
+        "importPath": "numpy",
+        "description": "numpy",
+        "isExtraImport": true,
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "append",
+        "importPath": "numpy",
+        "description": "numpy",
+        "isExtraImport": true,
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "codecs",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "codecs",
+        "description": "codecs",
+        "detail": "codecs",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "qrcode",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "qrcode",
+        "description": "qrcode",
+        "detail": "qrcode",
+        "documentation": {}
+    },
+    {
+        "label": "print_function",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "pyzbar.pyzbar",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pyzbar.pyzbar",
+        "description": "pyzbar.pyzbar",
+        "detail": "pyzbar.pyzbar",
+        "documentation": {}
+    },
+    {
+        "label": "cv2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cv2",
+        "description": "cv2",
+        "detail": "cv2",
+        "documentation": {}
+    },
+    {
+        "label": "convert_to_cc",
+        "kind": 2,
+        "importPath": "ns-downloader.all_porcess",
+        "description": "ns-downloader.all_porcess",
+        "peekOfCode": "def convert_to_cc(num: int):\n    \"\"\"Convert a number to a 2 digit string\"\"\"\n    fc = str(int(num/10))\n    sc = str(num % 10)\n    return str(fc + sc)\ndef convert_to_cccc(num: int):\n    \"\"\"Convert a number to a 4 digit string\"\"\"\n    res = ''\n    r = 0\n    for i in range(0, 4):",
+        "detail": "ns-downloader.all_porcess",
+        "documentation": {}
+    },
+    {
+        "label": "convert_to_cccc",
+        "kind": 2,
+        "importPath": "ns-downloader.all_porcess",
+        "description": "ns-downloader.all_porcess",
+        "peekOfCode": "def convert_to_cccc(num: int):\n    \"\"\"Convert a number to a 4 digit string\"\"\"\n    res = ''\n    r = 0\n    for i in range(0, 4):\n        r = num % 10\n        res = str(r) + res\n        num = num // 10\n    return res\ndef download(address, folder, file):",
+        "detail": "ns-downloader.all_porcess",
+        "documentation": {}
+    },
+    {
+        "label": "download",
+        "kind": 2,
+        "importPath": "ns-downloader.all_porcess",
+        "description": "ns-downloader.all_porcess",
+        "peekOfCode": "def download(address, folder, file):\n    website_is_up = False\n    request_response = requests.head(address)\n    status_code = request_response.status_code\n    website_is_up = status_code == 200\n    if(website_is_up):\n        response = requests.get(address)\n        file = open(str(folder + '/' + file + '.jpg'), \"wb\")\n        file.write(response.content)\n        file.close()",
+        "detail": "ns-downloader.all_porcess",
+        "documentation": {}
+    },
+    {
+        "label": "create_address",
+        "kind": 2,
+        "importPath": "ns-downloader.all_porcess",
+        "description": "ns-downloader.all_porcess",
+        "peekOfCode": "def create_address(url, page, file):\n    base = 'https://'\n    end = '.jpg'\n    address = base + url + '/' + \\\n        convert_to_cccc(page) + '/' + convert_to_cc(file) + end\n    return str(address)\ndef make_directory(dir: str):\n    if(not(os.path.exists(dir))):\n        print((\" Directory created: \" + dir + ' ').center(80, '+'))\n        os.mkdir(dir)",
+        "detail": "ns-downloader.all_porcess",
+        "documentation": {}
+    },
+    {
+        "label": "make_directory",
+        "kind": 2,
+        "importPath": "ns-downloader.all_porcess",
+        "description": "ns-downloader.all_porcess",
+        "peekOfCode": "def make_directory(dir: str):\n    if(not(os.path.exists(dir))):\n        print((\" Directory created: \" + dir + ' ').center(80, '+'))\n        os.mkdir(dir)\ndef remember_page(folder):\n    list_of_pages = glob.glob(folder + '/*')\n    if(len(list_of_pages) == 0):\n        return str(\"0001\")\n    else:\n        latest_file = max(list_of_pages, key=os.path.getctime)",
+        "detail": "ns-downloader.all_porcess",
+        "documentation": {}
+    },
+    {
+        "label": "remember_page",
+        "kind": 2,
+        "importPath": "ns-downloader.all_porcess",
+        "description": "ns-downloader.all_porcess",
+        "peekOfCode": "def remember_page(folder):\n    list_of_pages = glob.glob(folder + '/*')\n    if(len(list_of_pages) == 0):\n        return str(\"0001\")\n    else:\n        latest_file = max(list_of_pages, key=os.path.getctime)\n        print((\" Last page: \" + latest_file + \" \").center(80, 'o'))\n        return str(latest_file)\ndef remember_file(folder):\n    list_of_files = glob.glob(folder + '/*.jpg')",
+        "detail": "ns-downloader.all_porcess",
+        "documentation": {}
+    },
+    {
+        "label": "remember_file",
+        "kind": 2,
+        "importPath": "ns-downloader.all_porcess",
+        "description": "ns-downloader.all_porcess",
+        "peekOfCode": "def remember_file(folder):\n    list_of_files = glob.glob(folder + '/*.jpg')\n    if(len(list_of_files) == 0):\n        return int(0)\n    else:\n        latest_file = max(list_of_files, key=os.path.getctime)\n        res = latest_file.split('/')[-1].split('.')[0]\n        print((\" Last file: \" + res + \" \").center(80, 'x'))\n        return int(res)\ndef nsd(j):",
+        "detail": "ns-downloader.all_porcess",
+        "documentation": {}
+    },
+    {
+        "label": "nsd",
+        "kind": 2,
+        "importPath": "ns-downloader.all_porcess",
+        "description": "ns-downloader.all_porcess",
+        "peekOfCode": "def nsd(j):\n    sleep(3)\n    err_file = 0\n    err_url = 0\n    make_directory(str(url[j]))\n    page = int(remember_page(url[j]).split('/')[-1])\n    file = remember_file(remember_page(url[j]))\n    address = create_address(url[j], page, file)\n    sleep(3)\n    while True:",
+        "detail": "ns-downloader.all_porcess",
+        "documentation": {}
+    },
+    {
+        "label": "url_delimiter",
+        "kind": 2,
+        "importPath": "ns-downloader.deneme",
+        "description": "ns-downloader.deneme",
+        "peekOfCode": "def url_delimiter():\n    # url delimiter\n    with open('urls.txt', 'r') as f:\n        names = f.readlines()\n    res = []\n    for url in names:\n        res.append(url.split('/')[:5][-1])\n    with open('res.txt', 'w') as f:\n        for line in res:\n            f.write(line)",
+        "detail": "ns-downloader.deneme",
+        "documentation": {}
+    },
+    {
+        "label": "duplicates",
+        "kind": 2,
+        "importPath": "ns-downloader.deneme",
+        "description": "ns-downloader.deneme",
+        "peekOfCode": "def duplicates():\n    def duplicate_remover(x):\n        return list(dict.fromkeys(x))\n    with open('dup.txt', 'r') as f:\n        rows = f.readlines()\n    urls = []\n    for url in rows:\n        urls.append(url.strip(\"\\n\"))\n    urls = duplicate_remover(urls)\n    with open('dup.txt', 'w') as f:",
+        "detail": "ns-downloader.deneme",
+        "documentation": {}
+    },
+    {
+        "label": "delimiter",
+        "kind": 2,
+        "importPath": "ns-downloader.deneme",
+        "description": "ns-downloader.deneme",
+        "peekOfCode": "def delimiter():\n    with open('newx.txt', 'r') as f:\n        names = f.readlines()\n    res = []\n    for url in names:\n        res.append(url.split(\"\\\"\")[0])\n    print(res[1])\n    print(type(res[1]))\n    res1 = []\n    for url in res:",
+        "detail": "ns-downloader.deneme",
+        "documentation": {}
+    },
+    {
+        "label": "name_to_folder",
+        "kind": 2,
+        "importPath": "ns-downloader.deneme",
+        "description": "ns-downloader.deneme",
+        "peekOfCode": "def name_to_folder():\n    with open('a.txt', 'r') as f:\n        names = f.readlines()\n    res = []\n    for url in names:\n        res.append(url.split(\"\\n\")[0].replace(\" \", \"-\").lower())\n    with open('set.txt', 'w') as f:\n        for line in res:\n            f.write(line)\n            f.write('\\n')",
+        "detail": "ns-downloader.deneme",
+        "documentation": {}
+    },
+    {
+        "label": "remover",
+        "kind": 2,
+        "importPath": "ns-downloader.deneme",
+        "description": "ns-downloader.deneme",
+        "peekOfCode": "def remover():\n    with open('dup.txt', 'r') as f:\n        rows = f.readlines()\n    urls = []\n    for url in rows:\n        urls.append(url.strip(\"\\n\").replace(\"th/\", \"\"))\n    with open('dup.txt', 'w') as f:\n        for line in urls:\n            f.write(line)\n            f.write('\\n')",
+        "detail": "ns-downloader.deneme",
+        "documentation": {}
+    },
+    {
+        "label": "validate_address",
+        "kind": 2,
+        "importPath": "ns-downloader.githubValidate",
+        "description": "ns-downloader.githubValidate",
+        "peekOfCode": "def validate_address(address):\n    website_is_up = False\n    request_response = requests.head(address)\n    status_code = request_response.status_code\n    website_is_up = status_code == 200\n    return website_is_up\nhead = \"https://github.com/\"\nfor name in names:\n    address = head + name\n    if validate_address(address):",
+        "detail": "ns-downloader.githubValidate",
+        "documentation": {}
+    },
+    {
+        "label": "names",
+        "kind": 5,
+        "importPath": "ns-downloader.githubValidate",
+        "description": "ns-downloader.githubValidate",
+        "peekOfCode": "names = []\nres = []\nwith open('names.txt', 'r') as f:\n    rows = f.readlines()\nfor row in rows:\n    names.append(row.strip(\"\\n\"))\ndef validate_address(address):\n    website_is_up = False\n    request_response = requests.head(address)\n    status_code = request_response.status_code",
+        "detail": "ns-downloader.githubValidate",
+        "documentation": {}
+    },
+    {
+        "label": "res",
+        "kind": 5,
+        "importPath": "ns-downloader.githubValidate",
+        "description": "ns-downloader.githubValidate",
+        "peekOfCode": "res = []\nwith open('names.txt', 'r') as f:\n    rows = f.readlines()\nfor row in rows:\n    names.append(row.strip(\"\\n\"))\ndef validate_address(address):\n    website_is_up = False\n    request_response = requests.head(address)\n    status_code = request_response.status_code\n    website_is_up = status_code == 200",
+        "detail": "ns-downloader.githubValidate",
+        "documentation": {}
+    },
+    {
+        "label": "head",
+        "kind": 5,
+        "importPath": "ns-downloader.githubValidate",
+        "description": "ns-downloader.githubValidate",
+        "peekOfCode": "head = \"https://github.com/\"\nfor name in names:\n    address = head + name\n    if validate_address(address):\n        print(\"Taken:\", name)\n    else:\n        print(\"*** Name available: \", name)\n        res.append(name)\nwith open('res.txt', 'w') as f:\n    for line in res:",
+        "detail": "ns-downloader.githubValidate",
+        "documentation": {}
+    },
+    {
+        "label": "myThrea",
+        "kind": 6,
+        "importPath": "ns-downloader.name_editor_thread",
+        "description": "ns-downloader.name_editor_thread",
+        "peekOfCode": "class myThread (threading.Thread):\n    def __init__(self, threadID, name, counter):\n        threading.Thread.__init__(self)\n        self.threadID = threadID\n        self.name = name\n        self.counter = counter\n    def run(self):\n        nsd(int(self.threadID-1))\nthreadList = []\nt_name = 'Thread-'",
+        "detail": "ns-downloader.name_editor_thread",
+        "documentation": {}
+    },
+    {
+        "label": "validate_address",
+        "kind": 2,
+        "importPath": "ns-downloader.name_editor_thread",
+        "description": "ns-downloader.name_editor_thread",
+        "peekOfCode": "def validate_address(address):\n    website_is_up = False\n    request_response = requests.head(address)\n    status_code = request_response.status_code\n    website_is_up = status_code == 200\n    return website_is_up\ndef generate_address(names):\n    name = []\n    address_name = []\n    address_list = []",
+        "detail": "ns-downloader.name_editor_thread",
+        "documentation": {}
+    },
+    {
+        "label": "generate_address",
+        "kind": 2,
+        "importPath": "ns-downloader.name_editor_thread",
+        "description": "ns-downloader.name_editor_thread",
+        "peekOfCode": "def generate_address(names):\n    name = []\n    address_name = []\n    address_list = []\n    temp = ''\n    print(\" Addresses generating \".center(40, '.'))\n    for i in range(0, len(names)):\n        name.append(names[i].strip('\\n').replace(' ', '-').split('-'))\n        address_name.append(names[i].strip('\\n').replace(' ', '-'))\n        temp = name[i][0][0] + '/'",
+        "detail": "ns-downloader.name_editor_thread",
+        "documentation": {}
+    },
+    {
+        "label": "create_folders",
+        "kind": 2,
+        "importPath": "ns-downloader.name_editor_thread",
+        "description": "ns-downloader.name_editor_thread",
+        "peekOfCode": "def create_folders(names):\n    folders = []\n    for name in names:\n        folder = str(name.strip('\\n'))\n        folders.append(folder)\n        if (not (os.path.exists(folder))):\n            os.mkdir(folder)\n            print((\"Directory created: \" + name + \" \").center(40, '+'))\n    return folders\ndef download(address, folder, file_name):",
+        "detail": "ns-downloader.name_editor_thread",
+        "documentation": {}
+    },
+    {
+        "label": "download",
+        "kind": 2,
+        "importPath": "ns-downloader.name_editor_thread",
+        "description": "ns-downloader.name_editor_thread",
+        "peekOfCode": "def download(address, folder, file_name):\n    response = requests.get(address)\n    file = open(str(folder + '/' + file_name + '.jpg'), \"wb\")\n    file.write(response.content)\n    file.close()\ndef get_number(number):\n    res = int(number / 1000) + 1\n    return (res*1000)\ndef remember(folder):\n    list_of_files = glob.glob(folder + '/*.jpg')",
+        "detail": "ns-downloader.name_editor_thread",
+        "documentation": {}
+    },
+    {
+        "label": "get_number",
+        "kind": 2,
+        "importPath": "ns-downloader.name_editor_thread",
+        "description": "ns-downloader.name_editor_thread",
+        "peekOfCode": "def get_number(number):\n    res = int(number / 1000) + 1\n    return (res*1000)\ndef remember(folder):\n    list_of_files = glob.glob(folder + '/*.jpg')\n    if (len(list_of_files) == 0):\n        return int(1)\n    else:\n        latest_file = max(list_of_files, key=os.path.getctime)\n        res = latest_file.split('/')[-1].split('.')[0]",
+        "detail": "ns-downloader.name_editor_thread",
+        "documentation": {}
+    },
+    {
+        "label": "remember",
+        "kind": 2,
+        "importPath": "ns-downloader.name_editor_thread",
+        "description": "ns-downloader.name_editor_thread",
+        "peekOfCode": "def remember(folder):\n    list_of_files = glob.glob(folder + '/*.jpg')\n    if (len(list_of_files) == 0):\n        return int(1)\n    else:\n        latest_file = max(list_of_files, key=os.path.getctime)\n        res = latest_file.split('/')[-1].split('.')[0]\n        print((\"Last downloaded file: \" + res + \" \").center(40, '_'))\n        return int(res)\ndef nsd(num):",
+        "detail": "ns-downloader.name_editor_thread",
+        "documentation": {}
+    },
+    {
+        "label": "nsd",
+        "kind": 2,
+        "importPath": "ns-downloader.name_editor_thread",
+        "description": "ns-downloader.name_editor_thread",
+        "peekOfCode": "def nsd(num):\n    base = ''\n    end = '.jpg'\n    folders = create_folders(names)\n    addresses = generate_address(names)\n    number = 1000\n    temp = ''\n    address = ''\n    file = remember(folders[num])\n    err = 0",
+        "detail": "ns-downloader.name_editor_thread",
+        "documentation": {}
+    },
+    {
+        "label": "names",
+        "kind": 5,
+        "importPath": "ns-downloader.name_editor_thread",
+        "description": "ns-downloader.name_editor_thread",
+        "peekOfCode": "names = []\nwith open('done.txt') as f:\n    names = f.readlines()\nexitFlag = 0\nclass myThread (threading.Thread):\n    def __init__(self, threadID, name, counter):\n        threading.Thread.__init__(self)\n        self.threadID = threadID\n        self.name = name\n        self.counter = counter",
+        "detail": "ns-downloader.name_editor_thread",
+        "documentation": {}
+    },
+    {
+        "label": "exitFlag",
+        "kind": 5,
+        "importPath": "ns-downloader.name_editor_thread",
+        "description": "ns-downloader.name_editor_thread",
+        "peekOfCode": "exitFlag = 0\nclass myThread (threading.Thread):\n    def __init__(self, threadID, name, counter):\n        threading.Thread.__init__(self)\n        self.threadID = threadID\n        self.name = name\n        self.counter = counter\n    def run(self):\n        nsd(int(self.threadID-1))\nthreadList = []",
+        "detail": "ns-downloader.name_editor_thread",
+        "documentation": {}
+    },
+    {
+        "label": "threadList",
+        "kind": 5,
+        "importPath": "ns-downloader.name_editor_thread",
+        "description": "ns-downloader.name_editor_thread",
+        "peekOfCode": "threadList = []\nt_name = 'Thread-'\nfor i in range(1, len(names)+1):\n    threadList.append(t_name + str(i))\nqueueLock = threading.Lock()\nworkQueue = queue.Queue(len(names))\nthreads = []\nthreadID = 1\n# Create new threads\nfor tName in threadList:",
+        "detail": "ns-downloader.name_editor_thread",
+        "documentation": {}
+    },
+    {
+        "label": "t_name",
+        "kind": 5,
+        "importPath": "ns-downloader.name_editor_thread",
+        "description": "ns-downloader.name_editor_thread",
+        "peekOfCode": "t_name = 'Thread-'\nfor i in range(1, len(names)+1):\n    threadList.append(t_name + str(i))\nqueueLock = threading.Lock()\nworkQueue = queue.Queue(len(names))\nthreads = []\nthreadID = 1\n# Create new threads\nfor tName in threadList:\n    thread = myThread(threadID, tName, workQueue)",
+        "detail": "ns-downloader.name_editor_thread",
+        "documentation": {}
+    },
+    {
+        "label": "queueLock",
+        "kind": 5,
+        "importPath": "ns-downloader.name_editor_thread",
+        "description": "ns-downloader.name_editor_thread",
+        "peekOfCode": "queueLock = threading.Lock()\nworkQueue = queue.Queue(len(names))\nthreads = []\nthreadID = 1\n# Create new threads\nfor tName in threadList:\n    thread = myThread(threadID, tName, workQueue)\n    thread.start()\n    threads.append(thread)\n    threadID += 1",
+        "detail": "ns-downloader.name_editor_thread",
+        "documentation": {}
+    },
+    {
+        "label": "workQueue",
+        "kind": 5,
+        "importPath": "ns-downloader.name_editor_thread",
+        "description": "ns-downloader.name_editor_thread",
+        "peekOfCode": "workQueue = queue.Queue(len(names))\nthreads = []\nthreadID = 1\n# Create new threads\nfor tName in threadList:\n    thread = myThread(threadID, tName, workQueue)\n    thread.start()\n    threads.append(thread)\n    threadID += 1",
+        "detail": "ns-downloader.name_editor_thread",
+        "documentation": {}
+    },
+    {
+        "label": "threads",
+        "kind": 5,
+        "importPath": "ns-downloader.name_editor_thread",
+        "description": "ns-downloader.name_editor_thread",
+        "peekOfCode": "threads = []\nthreadID = 1\n# Create new threads\nfor tName in threadList:\n    thread = myThread(threadID, tName, workQueue)\n    thread.start()\n    threads.append(thread)\n    threadID += 1",
+        "detail": "ns-downloader.name_editor_thread",
+        "documentation": {}
+    },
+    {
+        "label": "threadID",
+        "kind": 5,
+        "importPath": "ns-downloader.name_editor_thread",
+        "description": "ns-downloader.name_editor_thread",
+        "peekOfCode": "threadID = 1\n# Create new threads\nfor tName in threadList:\n    thread = myThread(threadID, tName, workQueue)\n    thread.start()\n    threads.append(thread)\n    threadID += 1",
+        "detail": "ns-downloader.name_editor_thread",
+        "documentation": {}
+    },
+    {
+        "label": "validate_address",
+        "kind": 2,
+        "importPath": "ns-downloader.old_simple",
+        "description": "ns-downloader.old_simple",
+        "peekOfCode": "def validate_address(address):\n    website_is_up = False\n    print(\"*** url address validating... ***\")\n    request_response = requests.head(address)\n    status_code = request_response.status_code\n    website_is_up = status_code == 200\n    return website_is_up\nbase = 'http://'\nend = '.jpg'\ntemp = []",
+        "detail": "ns-downloader.old_simple",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "ns-downloader.old_simple",
+        "description": "ns-downloader.old_simple",
+        "peekOfCode": "base = 'http://'\nend = '.jpg'\ntemp = []\nurl = []\nname = []\nfolder = []\nwith open('list.txt') as f:\n    names = f.readlines()\n    for i in range(0, len(names)):\n        # definitions",
+        "detail": "ns-downloader.old_simple",
+        "documentation": {}
+    },
+    {
+        "label": "end",
+        "kind": 5,
+        "importPath": "ns-downloader.old_simple",
+        "description": "ns-downloader.old_simple",
+        "peekOfCode": "end = '.jpg'\ntemp = []\nurl = []\nname = []\nfolder = []\nwith open('list.txt') as f:\n    names = f.readlines()\n    for i in range(0, len(names)):\n        # definitions\n        print(\"Download list getting ready...\")",
+        "detail": "ns-downloader.old_simple",
+        "documentation": {}
+    },
+    {
+        "label": "temp",
+        "kind": 5,
+        "importPath": "ns-downloader.old_simple",
+        "description": "ns-downloader.old_simple",
+        "peekOfCode": "temp = []\nurl = []\nname = []\nfolder = []\nwith open('list.txt') as f:\n    names = f.readlines()\n    for i in range(0, len(names)):\n        # definitions\n        print(\"Download list getting ready...\")\n        url.append(names[i])",
+        "detail": "ns-downloader.old_simple",
+        "documentation": {}
+    },
+    {
+        "label": "url",
+        "kind": 5,
+        "importPath": "ns-downloader.old_simple",
+        "description": "ns-downloader.old_simple",
+        "peekOfCode": "url = []\nname = []\nfolder = []\nwith open('list.txt') as f:\n    names = f.readlines()\n    for i in range(0, len(names)):\n        # definitions\n        print(\"Download list getting ready...\")\n        url.append(names[i])\n        name.append(names[i].strip('\\n').split('-')[0])",
+        "detail": "ns-downloader.old_simple",
+        "documentation": {}
+    },
+    {
+        "label": "name",
+        "kind": 5,
+        "importPath": "ns-downloader.old_simple",
+        "description": "ns-downloader.old_simple",
+        "peekOfCode": "name = []\nfolder = []\nwith open('list.txt') as f:\n    names = f.readlines()\n    for i in range(0, len(names)):\n        # definitions\n        print(\"Download list getting ready...\")\n        url.append(names[i])\n        name.append(names[i].strip('\\n').split('-')[0])\n        folder.append(str(names[i].strip('\\n').strip('-')))",
+        "detail": "ns-downloader.old_simple",
+        "documentation": {}
+    },
+    {
+        "label": "folder",
+        "kind": 5,
+        "importPath": "ns-downloader.old_simple",
+        "description": "ns-downloader.old_simple",
+        "peekOfCode": "folder = []\nwith open('list.txt') as f:\n    names = f.readlines()\n    for i in range(0, len(names)):\n        # definitions\n        print(\"Download list getting ready...\")\n        url.append(names[i])\n        name.append(names[i].strip('\\n').split('-')[0])\n        folder.append(str(names[i].strip('\\n').strip('-')))\nprint(str(len(folder)) + \" Libraries will be downloaded...\")",
+        "detail": "ns-downloader.old_simple",
+        "documentation": {}
+    },
+    {
+        "label": "validate_address",
+        "kind": 2,
+        "importPath": "ns-downloader.singlecore_wget_old",
+        "description": "ns-downloader.singlecore_wget_old",
+        "peekOfCode": "def validate_address(address):\n    website_is_up = False\n    print(\"*** url address validating... ***\")\n    request_response = requests.head(address)\n    status_code = request_response.status_code\n    website_is_up = status_code == 200\n    return website_is_up\ndef remember(folder):\n    list_of_files = glob.glob(folder + '/*.jpg')\n    if(len(list_of_files) == 0):",
+        "detail": "ns-downloader.singlecore_wget_old",
+        "documentation": {}
+    },
+    {
+        "label": "remember",
+        "kind": 2,
+        "importPath": "ns-downloader.singlecore_wget_old",
+        "description": "ns-downloader.singlecore_wget_old",
+        "peekOfCode": "def remember(folder):\n    list_of_files = glob.glob(folder + '/*.jpg')\n    if(len(list_of_files) == 0):\n        return int(1)\n    else:\n        latest_file = max(list_of_files, key=os.path.getctime)\n        res = latest_file.split('/')[-1].split('.')[0]\n        print((\"Last downloaded file: \" + res + \" \").center(40, '_'))\n        return int(res)\nbase = ''",
+        "detail": "ns-downloader.singlecore_wget_old",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "ns-downloader.singlecore_wget_old",
+        "description": "ns-downloader.singlecore_wget_old",
+        "peekOfCode": "base = ''\nend = '.jpg'\nurl = []\nname = []\nfolder = []\nfile = 1\nerr = 0\nwith open('new.txt') as f:\n    names = f.readlines()\n    for i in range(0, len(names)):",
+        "detail": "ns-downloader.singlecore_wget_old",
+        "documentation": {}
+    },
+    {
+        "label": "end",
+        "kind": 5,
+        "importPath": "ns-downloader.singlecore_wget_old",
+        "description": "ns-downloader.singlecore_wget_old",
+        "peekOfCode": "end = '.jpg'\nurl = []\nname = []\nfolder = []\nfile = 1\nerr = 0\nwith open('new.txt') as f:\n    names = f.readlines()\n    for i in range(0, len(names)):\n        # definitions",
+        "detail": "ns-downloader.singlecore_wget_old",
+        "documentation": {}
+    },
+    {
+        "label": "url",
+        "kind": 5,
+        "importPath": "ns-downloader.singlecore_wget_old",
+        "description": "ns-downloader.singlecore_wget_old",
+        "peekOfCode": "url = []\nname = []\nfolder = []\nfile = 1\nerr = 0\nwith open('new.txt') as f:\n    names = f.readlines()\n    for i in range(0, len(names)):\n        # definitions\n        print((\"Download list getting ready\").center(40, '.'))",
+        "detail": "ns-downloader.singlecore_wget_old",
+        "documentation": {}
+    },
+    {
+        "label": "name",
+        "kind": 5,
+        "importPath": "ns-downloader.singlecore_wget_old",
+        "description": "ns-downloader.singlecore_wget_old",
+        "peekOfCode": "name = []\nfolder = []\nfile = 1\nerr = 0\nwith open('new.txt') as f:\n    names = f.readlines()\n    for i in range(0, len(names)):\n        # definitions\n        print((\"Download list getting ready\").center(40, '.'))\n        url.append(names[i])",
+        "detail": "ns-downloader.singlecore_wget_old",
+        "documentation": {}
+    },
+    {
+        "label": "folder",
+        "kind": 5,
+        "importPath": "ns-downloader.singlecore_wget_old",
+        "description": "ns-downloader.singlecore_wget_old",
+        "peekOfCode": "folder = []\nfile = 1\nerr = 0\nwith open('new.txt') as f:\n    names = f.readlines()\n    for i in range(0, len(names)):\n        # definitions\n        print((\"Download list getting ready\").center(40, '.'))\n        url.append(names[i])\n        name.append(names[i].strip('\\n').split('-')[0])",
+        "detail": "ns-downloader.singlecore_wget_old",
+        "documentation": {}
+    },
+    {
+        "label": "file",
+        "kind": 5,
+        "importPath": "ns-downloader.singlecore_wget_old",
+        "description": "ns-downloader.singlecore_wget_old",
+        "peekOfCode": "file = 1\nerr = 0\nwith open('new.txt') as f:\n    names = f.readlines()\n    for i in range(0, len(names)):\n        # definitions\n        print((\"Download list getting ready\").center(40, '.'))\n        url.append(names[i])\n        name.append(names[i].strip('\\n').split('-')[0])\n        folder.append(str(names[i].strip('\\n').strip('-')))",
+        "detail": "ns-downloader.singlecore_wget_old",
+        "documentation": {}
+    },
+    {
+        "label": "err",
+        "kind": 5,
+        "importPath": "ns-downloader.singlecore_wget_old",
+        "description": "ns-downloader.singlecore_wget_old",
+        "peekOfCode": "err = 0\nwith open('new.txt') as f:\n    names = f.readlines()\n    for i in range(0, len(names)):\n        # definitions\n        print((\"Download list getting ready\").center(40, '.'))\n        url.append(names[i])\n        name.append(names[i].strip('\\n').split('-')[0])\n        folder.append(str(names[i].strip('\\n').strip('-')))\nprint((str(len(folder)) + \" Libraries will be downloaded\").center(40, '*'))",
+        "detail": "ns-downloader.singlecore_wget_old",
+        "documentation": {}
+    },
+    {
+        "label": "myThrea",
+        "kind": 6,
+        "importPath": "ns-downloader.wget_thread",
+        "description": "ns-downloader.wget_thread",
+        "peekOfCode": "class myThread (threading.Thread):\n    def __init__(self, threadID, name, counter):\n        threading.Thread.__init__(self)\n        self.threadID = threadID\n        self.name = name\n        self.counter = counter\n    def run(self):\n        nsd(self.threadID-1)\nthreadList = []\nt_name = 'Thread-'",
+        "detail": "ns-downloader.wget_thread",
+        "documentation": {}
+    },
+    {
+        "label": "validate_address",
+        "kind": 2,
+        "importPath": "ns-downloader.wget_thread",
+        "description": "ns-downloader.wget_thread",
+        "peekOfCode": "def validate_address(address):\n    website_is_up = False\n    # print(\"*** url address validating... ***\")\n    request_response = requests.head(address)\n    status_code = request_response.status_code\n    website_is_up = status_code == 200\n    return website_is_up\ndef remember(folder):\n    list_of_files = glob.glob(folder + '/*.jpg')\n    if(len(list_of_files) == 0):",
+        "detail": "ns-downloader.wget_thread",
+        "documentation": {}
+    },
+    {
+        "label": "remember",
+        "kind": 2,
+        "importPath": "ns-downloader.wget_thread",
+        "description": "ns-downloader.wget_thread",
+        "peekOfCode": "def remember(folder):\n    list_of_files = glob.glob(folder + '/*.jpg')\n    if(len(list_of_files) == 0):\n        return int(1)\n    else:\n        latest_file = max(list_of_files, key=os.path.getctime)\n        res = latest_file.split('/')[-1].split('.')[0]\n        print((\"Last downloaded file: \" + res + \" \").center(40, '_'))\n        return int(res)\ndef convert_to_cc(num):",
+        "detail": "ns-downloader.wget_thread",
+        "documentation": {}
+    },
+    {
+        "label": "convert_to_cc",
+        "kind": 2,
+        "importPath": "ns-downloader.wget_thread",
+        "description": "ns-downloader.wget_thread",
+        "peekOfCode": "def convert_to_cc(num):\n    fc = str(int(num/10))\n    sc = str(num % 10)\n    return str(fc + sc)\ndef download(address, folder):\n    subprocess.run([\"wget\", \"-r\", \"-nc\", \"-P\", folder, address])\ndef nsd(j):\n    base = ''\n    photos = 'photos/'\n    end = '.jpg'",
+        "detail": "ns-downloader.wget_thread",
+        "documentation": {}
+    },
+    {
+        "label": "download",
+        "kind": 2,
+        "importPath": "ns-downloader.wget_thread",
+        "description": "ns-downloader.wget_thread",
+        "peekOfCode": "def download(address, folder):\n    subprocess.run([\"wget\", \"-r\", \"-nc\", \"-P\", folder, address])\ndef nsd(j):\n    base = ''\n    photos = 'photos/'\n    end = '.jpg'\n    file = 1\n    err = 0\n    if(not(os.path.exists(str(dir[j])))):\n        print((\"Directory created: \" + str(dir[j])).center(40, '+'))",
+        "detail": "ns-downloader.wget_thread",
+        "documentation": {}
+    },
+    {
+        "label": "nsd",
+        "kind": 2,
+        "importPath": "ns-downloader.wget_thread",
+        "description": "ns-downloader.wget_thread",
+        "peekOfCode": "def nsd(j):\n    base = ''\n    photos = 'photos/'\n    end = '.jpg'\n    file = 1\n    err = 0\n    if(not(os.path.exists(str(dir[j])))):\n        print((\"Directory created: \" + str(dir[j])).center(40, '+'))\n        os.mkdir(str(dir[j]))\n    # file = remember(dir[j])",
+        "detail": "ns-downloader.wget_thread",
+        "documentation": {}
+    },
+    {
+        "label": "names",
+        "kind": 5,
+        "importPath": "ns-downloader.wget_thread",
+        "description": "ns-downloader.wget_thread",
+        "peekOfCode": "names = []\nwith open('dup.txt') as f:\n    names = f.readlines()\nurl = []\nfolder = []\ndir = []\nfor i in range(0, len(names)):\n    # definitions\n    # print((\"Download list getting ready\").center(40, '.'))\n    url.append(names[i])",
+        "detail": "ns-downloader.wget_thread",
+        "documentation": {}
+    },
+    {
+        "label": "url",
+        "kind": 5,
+        "importPath": "ns-downloader.wget_thread",
+        "description": "ns-downloader.wget_thread",
+        "peekOfCode": "url = []\nfolder = []\ndir = []\nfor i in range(0, len(names)):\n    # definitions\n    # print((\"Download list getting ready\").center(40, '.'))\n    url.append(names[i])\n    folder.append(str(names[i].strip('\\n')))\n    dir.append(str(folder[i].split('/')[1]))\nclass myThread (threading.Thread):",
+        "detail": "ns-downloader.wget_thread",
+        "documentation": {}
+    },
+    {
+        "label": "folder",
+        "kind": 5,
+        "importPath": "ns-downloader.wget_thread",
+        "description": "ns-downloader.wget_thread",
+        "peekOfCode": "folder = []\ndir = []\nfor i in range(0, len(names)):\n    # definitions\n    # print((\"Download list getting ready\").center(40, '.'))\n    url.append(names[i])\n    folder.append(str(names[i].strip('\\n')))\n    dir.append(str(folder[i].split('/')[1]))\nclass myThread (threading.Thread):\n    def __init__(self, threadID, name, counter):",
+        "detail": "ns-downloader.wget_thread",
+        "documentation": {}
+    },
+    {
+        "label": "dir",
+        "kind": 5,
+        "importPath": "ns-downloader.wget_thread",
+        "description": "ns-downloader.wget_thread",
+        "peekOfCode": "dir = []\nfor i in range(0, len(names)):\n    # definitions\n    # print((\"Download list getting ready\").center(40, '.'))\n    url.append(names[i])\n    folder.append(str(names[i].strip('\\n')))\n    dir.append(str(folder[i].split('/')[1]))\nclass myThread (threading.Thread):\n    def __init__(self, threadID, name, counter):\n        threading.Thread.__init__(self)",
+        "detail": "ns-downloader.wget_thread",
+        "documentation": {}
+    },
+    {
+        "label": "threadList",
+        "kind": 5,
+        "importPath": "ns-downloader.wget_thread",
+        "description": "ns-downloader.wget_thread",
+        "peekOfCode": "threadList = []\nt_name = 'Thread-'\nfor i in range(1, len(names)+1):\n    threadList.append(t_name + str(i))\nqueueLock = threading.Lock()\nworkQueue = queue.Queue(len(names))\nthreads = []\nthreadID = 1\n# Create new threads\nfor tName in threadList:",
+        "detail": "ns-downloader.wget_thread",
+        "documentation": {}
+    },
+    {
+        "label": "t_name",
+        "kind": 5,
+        "importPath": "ns-downloader.wget_thread",
+        "description": "ns-downloader.wget_thread",
+        "peekOfCode": "t_name = 'Thread-'\nfor i in range(1, len(names)+1):\n    threadList.append(t_name + str(i))\nqueueLock = threading.Lock()\nworkQueue = queue.Queue(len(names))\nthreads = []\nthreadID = 1\n# Create new threads\nfor tName in threadList:\n    thread = myThread(threadID, tName, workQueue)",
+        "detail": "ns-downloader.wget_thread",
+        "documentation": {}
+    },
+    {
+        "label": "queueLock",
+        "kind": 5,
+        "importPath": "ns-downloader.wget_thread",
+        "description": "ns-downloader.wget_thread",
+        "peekOfCode": "queueLock = threading.Lock()\nworkQueue = queue.Queue(len(names))\nthreads = []\nthreadID = 1\n# Create new threads\nfor tName in threadList:\n    thread = myThread(threadID, tName, workQueue)\n    thread.start()\n    threads.append(thread)\n    threadID += 1",
+        "detail": "ns-downloader.wget_thread",
+        "documentation": {}
+    },
+    {
+        "label": "workQueue",
+        "kind": 5,
+        "importPath": "ns-downloader.wget_thread",
+        "description": "ns-downloader.wget_thread",
+        "peekOfCode": "workQueue = queue.Queue(len(names))\nthreads = []\nthreadID = 1\n# Create new threads\nfor tName in threadList:\n    thread = myThread(threadID, tName, workQueue)\n    thread.start()\n    threads.append(thread)\n    threadID += 1",
+        "detail": "ns-downloader.wget_thread",
+        "documentation": {}
+    },
+    {
+        "label": "threads",
+        "kind": 5,
+        "importPath": "ns-downloader.wget_thread",
+        "description": "ns-downloader.wget_thread",
+        "peekOfCode": "threads = []\nthreadID = 1\n# Create new threads\nfor tName in threadList:\n    thread = myThread(threadID, tName, workQueue)\n    thread.start()\n    threads.append(thread)\n    threadID += 1",
+        "detail": "ns-downloader.wget_thread",
+        "documentation": {}
+    },
+    {
+        "label": "threadID",
+        "kind": 5,
+        "importPath": "ns-downloader.wget_thread",
+        "description": "ns-downloader.wget_thread",
+        "peekOfCode": "threadID = 1\n# Create new threads\nfor tName in threadList:\n    thread = myThread(threadID, tName, workQueue)\n    thread.start()\n    threads.append(thread)\n    threadID += 1",
+        "detail": "ns-downloader.wget_thread",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "kind": 2,
+        "importPath": "old.htmlregex",
+        "description": "old.htmlregex",
+        "peekOfCode": "def func(value):\n    return ''.join(value.split())\ntextt = func(cleantext)\nfor line in textt:\n    text += line.strip().replace(':', '')\nprint(text)",
+        "detail": "old.htmlregex",
+        "documentation": {}
+    },
+    {
+        "label": "f",
+        "kind": 5,
+        "importPath": "old.htmlregex",
+        "description": "old.htmlregex",
+        "peekOfCode": "f = open(\"index.html\", 'r')\ncleantext = BeautifulSoup(f, \"lxml\").text\ntext = \"\"\ndef func(value):\n    return ''.join(value.split())\ntextt = func(cleantext)\nfor line in textt:\n    text += line.strip().replace(':', '')\nprint(text)",
+        "detail": "old.htmlregex",
+        "documentation": {}
+    },
+    {
+        "label": "cleantext",
+        "kind": 5,
+        "importPath": "old.htmlregex",
+        "description": "old.htmlregex",
+        "peekOfCode": "cleantext = BeautifulSoup(f, \"lxml\").text\ntext = \"\"\ndef func(value):\n    return ''.join(value.split())\ntextt = func(cleantext)\nfor line in textt:\n    text += line.strip().replace(':', '')\nprint(text)",
+        "detail": "old.htmlregex",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "kind": 5,
+        "importPath": "old.htmlregex",
+        "description": "old.htmlregex",
+        "peekOfCode": "text = \"\"\ndef func(value):\n    return ''.join(value.split())\ntextt = func(cleantext)\nfor line in textt:\n    text += line.strip().replace(':', '')\nprint(text)",
+        "detail": "old.htmlregex",
+        "documentation": {}
+    },
+    {
+        "label": "textt",
+        "kind": 5,
+        "importPath": "old.htmlregex",
+        "description": "old.htmlregex",
+        "peekOfCode": "textt = func(cleantext)\nfor line in textt:\n    text += line.strip().replace(':', '')\nprint(text)",
+        "detail": "old.htmlregex",
+        "documentation": {}
+    },
+    {
+        "label": "maxRegion",
+        "kind": 2,
+        "importPath": "old.main",
+        "description": "old.main",
+        "peekOfCode": "def maxRegion(grid):\n    max_cell_counter = 0\n    for row in range(len(grid)):\n        for col in range(len(grid[0])):\n            if grid[row][col] == 1:\n                region_cell_count = count_region_cells(grid, row, col)\n                max_cell_counter = max(max_cell_counter, region_cell_count)\n    return max_cell_counter\ndef count_region_cells(grid, row, col):\n    if any([row < 0, col < 0, row >= len(grid), col >= len(grid[0])]):",
+        "detail": "old.main",
+        "documentation": {}
+    },
+    {
+        "label": "count_region_cells",
+        "kind": 2,
+        "importPath": "old.main",
+        "description": "old.main",
+        "peekOfCode": "def count_region_cells(grid, row, col):\n    if any([row < 0, col < 0, row >= len(grid), col >= len(grid[0])]):\n        return 0\n    if grid[row][col] == 0:\n        return 0\n    cell_count = 0\n    grid[row][col] = 0\n    for r in range(row-1, row+2):\n        for c in range(col-1, col+2):\n            if any([r != row, c != col]):",
+        "detail": "old.main",
+        "documentation": {}
+    },
+    {
+        "label": "img",
+        "kind": 5,
+        "importPath": "qrcode.test",
+        "description": "qrcode.test",
+        "peekOfCode": "img = qrcode.make('talebe adi')\nimg.save('img.jpg')",
+        "detail": "qrcode.test",
+        "documentation": {}
+    },
+    {
+        "label": "decoder",
+        "kind": 2,
+        "importPath": "qrcode.webcam",
+        "description": "qrcode.webcam",
+        "peekOfCode": "def decoder(im):\n    # Find barcodes and QR codes\n    decodedObjects = pyzbar.decode(im)\n    # Print results\n    for obj in decodedObjects:\n        print('Type : ', obj.type)\n        print('Data : ', obj.data, '\\n')\n    return decodedObjects\nfont = cv2.FONT_HERSHEY_SIMPLEX\nwhile (cap.isOpened()):",
+        "detail": "qrcode.webcam",
+        "documentation": {}
+    },
+    {
+        "label": "cap",
+        "kind": 5,
+        "importPath": "qrcode.webcam",
+        "description": "qrcode.webcam",
+        "peekOfCode": "cap = cv2.VideoCapture(0)\ncap.set(3, 640)\ncap.set(4, 480)\ntime.sleep(2)\ndef decoder(im):\n    # Find barcodes and QR codes\n    decodedObjects = pyzbar.decode(im)\n    # Print results\n    for obj in decodedObjects:\n        print('Type : ', obj.type)",
+        "detail": "qrcode.webcam",
+        "documentation": {}
+    },
+    {
+        "label": "font",
+        "kind": 5,
+        "importPath": "qrcode.webcam",
+        "description": "qrcode.webcam",
+        "peekOfCode": "font = cv2.FONT_HERSHEY_SIMPLEX\nwhile (cap.isOpened()):\n    # Capture frame-by-frame\n    ret, frame = cap.read()\n    # Our operations on the frame come here\n    im = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)\n    decodedObjects = decoder(im)\n    for decodedObject in decodedObjects:\n        points = decodedObject.polygon\n        # If the points do not form a quad, find convex hull",
+        "detail": "qrcode.webcam",
+        "documentation": {}
+    }
+]

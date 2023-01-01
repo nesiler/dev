@@ -1,0 +1,127 @@
+[
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "codecs",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "codecs",
+        "description": "codecs",
+        "detail": "codecs",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "kind": 2,
+        "importPath": "htmlregex",
+        "description": "htmlregex",
+        "peekOfCode": "def func(value):\n    return ''.join(value.split())\ntextt = func(cleantext)\nfor line in textt:\n    text += line.strip().replace(':', '')\nprint(text)",
+        "detail": "htmlregex",
+        "documentation": {}
+    },
+    {
+        "label": "f",
+        "kind": 5,
+        "importPath": "htmlregex",
+        "description": "htmlregex",
+        "peekOfCode": "f = open(\"index.html\", 'r')\ncleantext = BeautifulSoup(f, \"lxml\").text\ntext = \"\"\ndef func(value):\n    return ''.join(value.split())\ntextt = func(cleantext)\nfor line in textt:\n    text += line.strip().replace(':', '')\nprint(text)",
+        "detail": "htmlregex",
+        "documentation": {}
+    },
+    {
+        "label": "cleantext",
+        "kind": 5,
+        "importPath": "htmlregex",
+        "description": "htmlregex",
+        "peekOfCode": "cleantext = BeautifulSoup(f, \"lxml\").text\ntext = \"\"\ndef func(value):\n    return ''.join(value.split())\ntextt = func(cleantext)\nfor line in textt:\n    text += line.strip().replace(':', '')\nprint(text)",
+        "detail": "htmlregex",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "kind": 5,
+        "importPath": "htmlregex",
+        "description": "htmlregex",
+        "peekOfCode": "text = \"\"\ndef func(value):\n    return ''.join(value.split())\ntextt = func(cleantext)\nfor line in textt:\n    text += line.strip().replace(':', '')\nprint(text)",
+        "detail": "htmlregex",
+        "documentation": {}
+    },
+    {
+        "label": "textt",
+        "kind": 5,
+        "importPath": "htmlregex",
+        "description": "htmlregex",
+        "peekOfCode": "textt = func(cleantext)\nfor line in textt:\n    text += line.strip().replace(':', '')\nprint(text)",
+        "detail": "htmlregex",
+        "documentation": {}
+    },
+    {
+        "label": "maxRegion",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def maxRegion(grid):\n    max_cell_counter = 0\n    for row in range(len(grid)):\n        for col in range(len(grid[0])):\n            if grid[row][col] == 1:\n                region_cell_count = count_region_cells(grid, row, col)\n                max_cell_counter = max(max_cell_counter, region_cell_count)\n    return max_cell_counter\ndef count_region_cells(grid, row, col):\n    if any([row < 0, col < 0, row >= len(grid), col >= len(grid[0])]):",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "count_region_cells",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def count_region_cells(grid, row, col):\n    if any([row < 0, col < 0, row >= len(grid), col >= len(grid[0])]):\n        return 0\n    if grid[row][col] == 0:\n        return 0\n    cell_count = 0\n    grid[row][col] = 0\n    for r in range(row-1, row+2):\n        for c in range(col-1, col+2):\n            if any([r != row, c != col]):",
+        "detail": "main",
+        "documentation": {}
+    }
+]
